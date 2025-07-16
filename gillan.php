@@ -15,13 +15,13 @@
 </div>
   
 <!--Child In Time-->
-<div>
-<img class="album_cover" src="imgs/CIT cover.jpg" alt ="Child In Time Cover"/>
-<h2>Child In Time - <em>1976</em></h2>
+<h3>Child In Time - <em>1976</em></h3>
+<p><img class="album_cover" src="imgs/ig_cover_child_in_time.png" alt ="Child In Time Cover"/></p>
 <p>Overall a very adventurous, experimental solo debut from Ian Gillan and his new band.  This album highlights his quirkiness and that's always a good sing.  Track highlights include 'Lay Me Down' with it's pumping bassline (John Gustafason), killer organ (Mike Moran) and a nice abstract guitar solo with plenty of meaty riffiness from Ray Fenwick.  'You Make Me Feel So Good' has Gillan yelping in fine form, and features nice slidework from Fenwick as well.  'Shame' is solid but 'My Baby Loves Me' doesn't develop much despite it's great guitar solo.  'Down the Road' is a bluesy ballad but there are too many multi tracked Ian's that get in the way of the idea although it probably sounded a lot trippier back in the day.  'Child In Time' kicks off the second side and gets things back on track.  Props to Ian for a completely original take on a Deep Purple staple.  He could have played it safe and done a straight reading but thankfully, that never was Ian's style!  This version is spacier, way more laid back and the guitar solo could not have been more radically different that Ritchie's, which is a smart move because not only would Ritchie's solo have been impossible to emulate, but Fenwick stays true to his strengths and plays to the song instead of trying to catch a ghost.  The album concluds with 'Let it Slide' which, unfortunately is long and episodic and just meanders through several uneventful landscapes with solos which, while they have a nice texture and tone, don't really develop much. It's pleasant enough harmonically, it's just a bit of a slog and feels like it was used to fill out the second side of the album.  <span>(rating: 4/5 shrieks)</span>
 </p>
 </div>  
- 
+
+<!-- LINEUP:  Child in Time -->
 <figure>
 <div>
   <img src="imgs/IG solo.jpg" alt="Ian Gillan"/>
