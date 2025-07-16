@@ -6,9 +6,8 @@
 </head>
 
 <body>
-  
+<?php include 'includes/header.php'; ?>
 
-  
 <!-- IAN GILLAN LOGO -->
 <div>
 <img src="imgs/Gillan logo 1.jpg" alt="Ian Gillan Band logo"/>

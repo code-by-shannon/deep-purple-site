@@ -23,9 +23,6 @@
         <li><a href="index.php">Home</a></li>
         <li><a href="rainbow.php">Rainbow</a>Ritchie Blackmore solo</li>
         <li><a href="gillan.php">Ian Gillan</a>Ian Gillan Solo</li>
-        <!-- <li><a href="mark8.php">Mark VIII</a></li> -->
-        <!-- <li><a href="rainbow.php">Rainbow</a></li>
-        <li><a href="gillan.php">Ian Gillan</a></li> -->
     </ul>
 </nav>
 
