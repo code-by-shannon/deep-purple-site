@@ -1,11 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
-
+<?php
+// Get the current file name
+$currentPage = basename($_SERVER['PHP_SELF']);
+$hideLogoPages = ['rainbow.php', 'gillan.php']; // add more as needed
+?>
 
 <!-- ID TOP TO SCROLL FROM BOTTOM -->
 <body id='top'>
+
 <!-- LOGO WITH GROUP PIC -->
-<div><img src="imgs/deeppurplelogo.png" alt="logo"/></div>
+<?php if (!in_array($currentPage, $hideLogoPages)): ?>
+  <div><img src="imgs/deeppurplelogo.png" alt="logo"/></div>
+<?php endif; ?>
 
 <!-- NAV BAR -->
 <nav>
@@ -25,7 +30,3 @@
         <li><a href="gillan.php">Ian Gillan</a>Ian Gillan Solo</li>
     </ul>
 </nav>
-
-<script src='main.js'></script>
-</body>
-</html>
