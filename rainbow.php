@@ -17,9 +17,14 @@
 
 <!--RB's Rainbow-->
 <h3>Ritchie Blackmore's Rainbow - <em>1975</em></h3>
-<p><img class="album_cover" src="imgs/r_cover_rb_rainbow.png" alt="Rainbow Cover"/></p>
-<p>Ritchie, was unhappy with the overall direction of Deep Purple during the making of 'Stormbringer,'. Simultaneously, he was smitten with the extraordinary vocal talents of the relatively unknown Ronnie James Dio (who was on the tour with Deep Purple, fronting the band Elf). Ritchie's mercurial nature always drove him to explore new directions.  He was also a bit of a vampire with an insatiable appetite for the fresh energy that new blood could inject into his projects.  All of this culminated into a powerful new project which he called Rainbow, evidently due to his hanging around at the Rainbow night club on the Sunset Strip.  Dio is an effortlessly, wonderful singer with rich, vocal tone to spare and when Ritchie is feeling rejuvenated he is at his best.  Herein is an album that dives into Middle Eastern modalities, Baroque themes and of course, heavy, hard rock.  The two boogie numbers drag this album down a bit and prevents it from being 5 star perfection but it's close. The record shows a bit of humor too, when at the end of 'If You Don't Like Rock and Roll' the small crowd in the studio applauds.  The 5 star songs are 'Man on the Silver Mountain,' 'Catch the Rainbow,' 'Snake Charmer,' 'The Temple of the King,' 'Sixteenth Century Greensleeves' and the album closer, the instrumental jammer, 'Still I'm Sad.'  An indispensable album for Deep Purple and Rainbow fans alike.
-<span class='yellow'>(rating: 4.5/5 whammy bars)</span></p>  
+
+  <img class="album_cover" src="imgs/r_cover_rb_rainbow.png" alt="Rainbow Cover"/>
+  <p>Ritchie, was unhappy with the overall direction of Deep Purple during the making of 'Stormbringer,'. Simultaneously, he was smitten with the extraordinary vocal talents of the relatively unknown Ronnie James Dio (who was on the tour with Deep Purple, fronting the band Elf). Ritchie's mercurial nature always drove him to explore new directions.  He was also a bit of a vampire with an insatiable appetite for the fresh energy that new blood could inject into his projects.  All of this culminated into a powerful new project which he called Rainbow, evidently due to his hanging around at the Rainbow night club on the Sunset Strip.  Dio is an effortlessly, wonderful singer with rich, vocal tone to spare and when Ritchie is feeling rejuvenated he is at his best.  Herein is an album that dives into Middle Eastern modalities, Baroque themes and of course, heavy, hard rock.  The two boogie numbers drag this album down a bit and prevents it from being 5 star perfection but it's close. The record shows a bit of humor too, when at the end of 'If You Don't Like Rock and Roll' the small crowd in the studio applauds.  The 5 star songs are 'Man on the Silver Mountain,' 'Catch the Rainbow,' 'Snake Charmer,' 'The Temple of the King,' 'Sixteenth Century Greensleeves' and the album closer, the instrumental jammer, 'Still I'm Sad.'  An indispensable album for Deep Purple and Rainbow fans alike.
+  <span class='yellow'>(rating: 4.5/5 whammy bars)</span></p>  
+
+
+
+
 
 <!-- Lineup: Ritchie Blackmore's Rainbow -->
 <figure>

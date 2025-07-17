@@ -53,7 +53,7 @@
 <p>Songs that didn't make the album that you should definitely listen to:<b> Emmaretta</b></p>
 
  <!--Live at Inglewood-->
- <h3 >Live at Inglewood - <em>1968 (released 2009) </em></h3><img class="thumbnail" src="imgs/cover_live_inglewood.png" alt="Live At Inglewood Cover"/>
+ <h3>Live at Inglewood - <em>1968 (released 2009) </em></h3><img class='album_cover' src="imgs/cover_live_inglewood.png" alt="Live At Inglewood Cover"/>
   <p>I am basing this rating solely on the performance of the musicians and ignoring the shoddy recording quality which will undoubtedly be a huge turn-off for many.  Some may even find this artifact unlistenable.  Ultimately, we are lucky to have this souvenir of a live performance (and a very good one at that) from the MK I lineup.  The production has massive eq problems, distortion from clipping and an uneven mix (good luck making out the bass, which is a complete shame because Nicky was a damn fine player!)  Of course the bass drum is inaudible as well.  But the performances are great all the way around and this album feels more like classic Purple, due to the live setting, than any of the studio albums ever did.  This shouldn't be a surprise as this band always played with more energy live (especially Lord and Blackmore.)  Case in point: even 'Kentucky Woman' (such a dull choice for a cover) feels heavier and 'River Deep Mountain High' is a triumph.  Both outdo their studio counterparts.  It's a short set that's heavy on covers and while it's not essential, it's a helluva nice addition to your Deep Purple collection.  If you can find it, and don't mind the less than ideal production, get it!
     <span class="yellow"> (rating: 4/5 whammy bars)</span></p>  
 
