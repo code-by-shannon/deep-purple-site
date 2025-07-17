@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+
     <?php include 'includes/head.php'; ?>
-    <title>Deep Purple Mark VIII | Classic Lineup Reviews & History</title>
-</head>
 
 
 <body>

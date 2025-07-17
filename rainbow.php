@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <?php include 'head.php'; ?>
-    <title>Rainbow (Ritchie Blackmores Rainbow) | Classic Lineup Reviews & History</title>
-</head>
+
+<!-- HEAD -->
+<?php include 'includes/head.php'; ?>
+   
+
 
 
 <body>

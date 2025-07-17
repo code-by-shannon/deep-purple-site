@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <?php include 'head.php'?>
-  <title>Ian Gillan, Gillan and Ian Gillan Band | Gillan Band Lineup Reviews & History</title>
-</head>
+
+<!-- HEAD -->
+<?php include 'includes/head.php'?>
 
 <body>
 <?php include 'includes/header.php'; ?>

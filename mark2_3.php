@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+
     <?php include 'includes/head.php'; ?>
-    <title>Deep Purple Mark II | 2nd reunion</title>
-</head>
+
 
 <!-- BODY -->
 <body>

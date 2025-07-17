@@ -23,6 +23,7 @@
   <meta name="twitter:image" content="https://yourdomain.com/imgs_2-0/dp_logo_tab.png">
   
   <!-- Stylesheet -->
+  <link rel="stylesheet" href="css/base.css">
 
 
   
