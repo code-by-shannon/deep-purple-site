@@ -1,3 +1,21 @@
+.album_title_header{
+    text-align: center;
+    font-size: 1.5rem;
+}
+
 .album_cover{
-    width:15rem;
-}  
+    width:10rem;
+    float:left;
+}
+
+.album_cover{
+    margin:0 1rem 0 0;
+}
+
+.review_text{
+    font-size:1.5rem;
+}
+
+.infinite_hack{
+    margin-bottom:5rem;
+}
