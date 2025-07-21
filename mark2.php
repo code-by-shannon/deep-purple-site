@@ -6,19 +6,19 @@
     
  
 <!-- BODY -->
-<body>
+<body class='mark2'>
     <?php include 'includes/header.php'; ?>
 
 <!--Mk 2-->
-<h2>Mk II</h2>
+<h1 id='h1'>Mark II - Deep Purple at Their Zenith</h1>
 <figure>
-    <div>
-        <img src="imgs/NoNoNoJLRG.png" alt="Jon Lord and Roger Glover"/>
-        <img src="imgs/NoNoNoIG.png" alt="Ian Gillan"/>
-        <img src="imgs/NoNoNoIP.png" alt="Ian Paice"/>
-        <img src="imgs/NoNoNoRB.png" alt="Ritchie Blackmore"/>
-    </div>
-    <figcaption><span class="lineup">Deep Purple at their zenith:</span> Jon Lord, Roger Glover, Ian Gillan, Ian Paice, Ritchie Blackmore (1969–1973, 1984–1989, 1992–1993)</figcaption>
+  <img src="imgs/mark2_group_photo.png" alt="a group photo of the famous mark 2 lineup jamming in the studio">
+  <figcaption>
+    <span class="caption-title">The legendary Deep Purple lineup:</span>
+    <br>
+    Jon Lord, Roger Glover, Ian Paice, Ian Gillan, Ritchie Blackmore<br>
+   1970-1973
+  </figcaption>
 </figure>
 
 <!--In Rock-->
@@ -26,7 +26,7 @@
 <p class='review_text'>
 <img class='album_cover' src="imgs/cover_in_rock.png" alt="In Rock Cover"/>
 The first truly essential Deep Purple album.  First off, make sure you find an overseas pressing so you you don't miss the long intro to 'Speed King' that the American release edited out.  It's a wonderfully chaotic opening that perfectly bookends the crazy atonal meltdown that concludes the album, the Mark II version of high art but this time served with a knuckle sandwich.  'Speed King' has, inarguably, the all time greatest Stratocaster vs Hammond B2 duel in recorded history.  It's jazzier vibe is nicely tucked away between the layers of mind melting hard rock.  The epic 'Child In Time' shows this band at the height of itself creative genius.  Gillan would never sing more dramatically than on this song, Lord has a moody, lovely and ominous organ intro, the song contains quite possibly Ritchie's best studio solo ever and the neoclassial riff doubled up by Lord to end Blackmore's solo is pure exhileration matched only by Gillans's encore vocal crescendos.  The entire album is consistently excellent albeit a minor complaint is that 'Bloodsucker,' 'Into the Fire' and 'Living Wreck' could have been shortened up a bit.  But this was assuredly a product of the 70's, and musical overindulgence from virtuosic instrumentalists who took pride in their craft was the order of the day, even if sometimes the song structure had to be relegated to secondary importance.  But let's not get too picky because 'Flight of the Rat' is an epic blast and 'Hard Lovin Woman' rocks until it finally loses control, crashes upside down, into the ditch, wheels still spinning, flames licking around the gas tank towards a catastrophic explosion.  But what a ride!<span class="yellow"> (rating: 5/5 whammy bars)</span></p>
-<p>Songs that didn't make the album that you should definitely listen to:<b> Hallelujah, Black Night</b>
+<p>🎧 Songs that didn't make the album that you should definitely listen to:<b> Hallelujah, Black Night</b>
 </p>
 
 <!--Live in Stockholm-->
@@ -42,14 +42,14 @@ Originally released as 'Scandanavian Nights', 'Stockholm 1970' has been cleaned 
 <img class="album_cover" src="imgs/cover_fireball.png" alt="Fireball Cover"/> 
 A strange kind of album in many ways.  Sandwiched in between the DIY anarchic avalanche of 'In Rock' and the sophisticated yet accesible hard rocking of 'Machine Head,' 'Fireball' is their artistic statement.  It is just as improvised as 'In Rock' but the chaos is replaced with a roominess and laid back vibe.  What's most noticeable is that 'Fireball' doesn't showcase Jon Lord rocking his organ until it tips over onto the floor in a crash of reverb, nor Blackmore wrecking his Strat or even Ian yelping into the cosmos.  But rather, it is a mellower album, as far as hard rock standards will allow.  'Fireball' is the opener, kickstarted by the drumming of Ian Paice. The trippy, backwards slide guitar work of Ritchie on 'NoNoNo' is mesmerizing while 'Strange Kind of Woman' is classic Deep Purple pop (as FM friendly as DP could be expected to manage.)  'The Mule' is a great combo of vocals and instrumental prowess.  A couple of great songs didn't make this album in America, 'Demon's Eye' and 'I'm Alone' the latter featuring some blistering solos from Ritchie and Jon.  If they would have made some tough editing decisions and managed to include these two tunes, I think they would have had another perfect album in their catalogue.  As it is, it misses by the width of a high e string, mainly due to the goofiness of 'Anyone's Daughter', which although fun and spirited from Ian Gillan, is unessential.<span class="yellow"> (rating: 4.75/5 whammy bars)</span>
 </p>
-<p>Songs that didn't make the album that you should definitely listen to:<b> Demon's Eye, I'm Alone</b></p>
+<p>🎧 Songs that didn't make the album that you should definitely listen to:<b> Demon's Eye, I'm Alone</b></p>
 
 <!--Machine Head-->
 <h3 class='album_title_header'>Machine Head - <em>1972</em></h3>
 <p class='review_text'>
 <img class="album_cover" src="imgs/cover_machine_head.png" alt="Machine Head Cover"/>  
 If you are only going to add one DP studio album in your collection, this is probably the one you need.  Herein lies the original version of 'Smoke on the Water' which contains not only an instantly recognizable iconic Blackmore riff but one of the most well crafted guitar solos of his career as well.  The vocal melodies are consistently excellent by Ian Gillan allowing this album to surf seamlessly and simultaneously between pop and underground hard rock.  Where 'In Rock' was punkish and anarchic in nature, 'Machine Head' is lean, and refined but loses none of the exciting energy that went into 'In Rock.'  The fiery interplay between Lord and Blackmore is on constant display in 'Highway Star' and 'Lazy.' There's avant-garde metal for the cosmos in 'Space Truckin' with Ian Paice's prolonged drum break leading into an anarchic ascension.  Decorating the album throughout are Gillan's unearthly yowls.  Even the filler songs aren't filler, 'Pictures of Home' was released as the single. 'Never Before' has a great moody breakdown.  This album is essential as evidenced by half of the material on the album being included in the bands live show ever since it was released.<span class="yellow"> (rating: 5/5 whammy bars)</span></p>
-<p>Songs that didn't make the album that you should definitely listen to:<b>When a Blind Man Cries</b>
+<p> 🎧Songs that didn't make the album that you should definitely listen to:<b>When a Blind Man Cries</b>
 </p>
 
 <!--Made in  Japan-->

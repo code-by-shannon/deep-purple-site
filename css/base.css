@@ -38,13 +38,13 @@
     justify-content: space-evenly;
 }
 
-#h1-index,
-#h1-mark1{
+#h1{
     text-align:center;
 }
 
 .index,
-.mark1 p{
+.mark1,
+.mark2 p{
     font-size: 1.2rem;
     margin:1rem;
 }
