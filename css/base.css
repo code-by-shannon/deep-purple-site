@@ -1,3 +1,57 @@
+/*******************    
+    ** HEADER **
+********************/
+#header-logo-pic{
+    text-align: center;
+}
+
+/****** nav bar *****/
+#main-nav ul{
+    display:flex;
+    flex-wrap:wrap;
+    border:solid black 2px;
+    list-style:none;
+    justify-content: center;
+    gap:1rem;
+}
+
+#main-nav li{
+    padding:1rem;
+}
+
+#main-nav a{
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+
+.bolded-nav{
+    font-weight: bold;
+}
+
+/********************
+    **  INDEX **
+*********************/
+.index{
+    height:100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+#h1-index{
+    text-align:center;
+}
+
+.index p{
+    font-size: 1.2rem;
+    margin:1rem;
+}
+
+/***********************************
+    ** CONTENT IN ALL PAGES **
+************************************/
+
+/***** album covers *****/
 .album_title_header{
     text-align: center;
     font-size: 1.5rem;
