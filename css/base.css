@@ -38,14 +38,36 @@
     justify-content: space-evenly;
 }
 
-#h1-index{
+#h1-index,
+#h1-mark1{
     text-align:center;
 }
 
-.index p{
+.index,
+.mark1 p{
     font-size: 1.2rem;
     margin:1rem;
 }
+
+/***********************
+    ** MARK I **
+************************/
+figure{
+    margin: 0 auto;
+}
+figcaption {
+    text-align: center;
+}
+
+.caption-title{
+    font-weight: bold;
+}
+
+figure img{
+    display:block;
+    margin: 0 auto;
+}
+
 
 /***********************************
     ** CONTENT IN ALL PAGES **

@@ -4,28 +4,25 @@
 <?php include 'includes/head.php'; ?> 
 </head>
     
-    
-
-
-<!-- BODY -->
-<body>
+    <!-- BODY -->
+<body class = 'mark1'>
 
 <!-- NAV BAR -->
 <?php include 'includes/header.php'; ?>
 
 
 <!-- INTRO -->
-<h1>Formation and Mark I</h1>
+<h1 id='h1-mark1'>Formation and Mark I</h1>
 <p>Interestingly before Deep Purple became 'Deep Purple', they were originally called 'Roundabout' as the project was intended to be a band of revolving musicians with Chris Curtis of 'The Searchers' being the one constant member while playing the drums.  This was a short lived idea of Chris' who was never really in the band although he did his part by uniting Jon Lord with Ritchie Blackmore, thus forming the backbone Deep Purple.  Ironic then that Deep Purple has always been a revolving door of musicians and has hosted several different lineups through the years.  But fear not, for this never ending revolving door is made of legends, most of whom have also been in other amazing projects as well.  Through it's 40+ years and various personnel, it is surprisingly difficult to find anything but great offerings from these pioneers of hard rock.</p>
 
 
-
-<h2>Mk I</h2>
-
 <figure>
-  <img src="imgs/DPMK1.jpg" alt="DPMKI">
-  <figcaption><span class="lineup">Original Lineup:</span>
-  <br>Rod Evans, Jon Lord, Ritchie Blackmore, Nic Simper and Ian Paice (1968-1969)</figcaption>
+  <img src="imgs/Mark1_group_photo.png" alt="a group photo of the original Deep Purple lineup with Simper and Evans">
+  <figcaption>
+    <span class="caption-title">Original Lineup:</span>
+    <br>
+    Rod Evans, Jon Lord, Ritchie Blackmore, Nic Simper and Ian Paice (1968–1969)
+  </figcaption>
 </figure>
 
 <!-- INTRO -->
