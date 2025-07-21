@@ -2,7 +2,10 @@
 <html>
 
 <!-- HEAD -->
+<head>
 <?php include 'includes/head.php'?>
+</head>
+
 
 <body>
 <?php include 'includes/header.php'; ?>
@@ -12,14 +15,6 @@
 <img src="imgs/Gillan logo 1.jpg" alt="Ian Gillan Band logo"/>
 </div>
 
-<!--Shades of Deep Purple -->
-<h3 class='album_title_header'>Shades of Deep Purple - <em>1968</em></h3>
-<p class='review_text'>
-<img class="album_cover" src="imgs/cover_shades.png" alt="Shades of Deep Purple Album Cover"/>
-Their first album kicks off their career in fine fashion!  It's not quite stylistically prime Deep Purple (1972-1976). In fact the music created by the MK I lineup is prog-rock oriented and in the art-rock vein.  Underneath, one hears the dynamic interaction between Nick Simper (an underappreciated bassist) and drummer Ian Paice.  'Shades' biggest problem is its questionable mix.  Nick and Ian always cut through with excellent tone.  Ritchie Blackmore, however, tends to be buried in the mix (even with his generally thin and brittle tone.)  Although his playing is up to snuff in spots, it's not of the fiery, riffy excellence that would soon become his trademark.  Harmonically, he is inconsistent.  Rod Evans a strong vocalist, has a radically different singing approach than future vocalist (MK II) Ian Gillan which shows up strongly on 'Mandrake Root', a song which the band would keep in their repertoire even after Evans left.  Still, the pieces are in place and Lord and Blackmore are already pushing each other to greater heights; in short, trademark Deep Purple.  At this point Deep Purple is Jon's band and he takes the leading role on this album. There are a lot of fine ideas floating around on this debut but it's bogged down by a slower second side, mostly due to a lack of material and consequently, an over reliance on covers.  'And The Address' with it's rumbling keyboard intro, heavy guitar chords and guitar / keyboard interplay makes for an enticing opening number.  It's one of the best melodies on the album, ending with a lightening fast guitar flourish that serves as a harbinger to the classic Deep Purple sound.  'Hush' is the pop/hard rock organ driven tune that helped them gain popularity in the US.  'One More Rainy Day' is moody with classically tinged keys.  'I'm So Glad' starts a keyboard driven instrumental section until a mellow guitar kicks off the song properly.  'Mandrake Root' has a Hendrix-y riff but it never comes alive.  But it will in a few albums when Gillan starts yelping it in concert.  Still, it's memorable for it's chaotic, "freak out" improv vibe.
-    <span class="yellow"> (rating: 3.75/5 whammy bars)</span>
-</p>
-  
 <!--Child In Time-->
 <h3 class='album_title_header'>Child In Time - <em>1976</em></h3>
 <p class='review_text'>
@@ -189,6 +184,6 @@ Obviously, there is more to Ian Gillan than Olympic grade shrieking and especial
 </p>
 
 
-<a href="index.php"><img id="logofixed" src="imgs/logofixed.png" alt="Deep Purple Homepage Logo"></a>
+<a href="index.php"><img id="logofixed" src="imgs/logofixed.png" alt="Deep Purple Homepage Logo">Home</a>
 </body>
 </html>
