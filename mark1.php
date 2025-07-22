@@ -17,7 +17,7 @@
 
 
 <figure>
-  <img src="imgs/Mark1_group_photo.png" alt="a group photo of the original Deep Purple lineup with Simper and Evans">
+  <img src="imgs/mark1_group_photo.png" alt="a group photo of the original Deep Purple lineup with Simper and Evans">
   <figcaption>
     <span class="caption-title">Original Lineup:</span>
     <br>

@@ -8,13 +8,15 @@
 <body>
     <?php include 'includes/header.php'; ?>
 
+<h1 id='h1'>Steve Morse Replaces Blackmore</h1>
 
-<!--MK6-->
-<h2>Mk VI</h2>
 <figure>
-<img class="jlt" src="imgs/SM.jpg" alt = "Steve Morse">
-    <figcaption class="fig">
-    <span class="lineup">The Steve Morse era begins: </span>Steve Morse, Jon Lord, Ian Paice, Ian Gillan, Roger Glover  (1994-2002)</figcaption>
+  <img src="imgs/mark6_steve_morse.png" alt="steve morse playing his guitar in front of a huge deep purple banner">
+  <figcaption>
+    <span class="caption-title">Mark 6</span>
+    <br>
+    Roger Glover, Jon Lord, Steve Morse, Ian Gillan, Ian Paice 
+  </figcaption>
 </figure>
 
 

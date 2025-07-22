@@ -8,16 +8,17 @@
 
 
 <body>
-    <?php include 'includes/header.php'; ?>
+<?php include 'includes/header.php'; ?>
 
+<h1 id='h1'>Don Airey Replaces Jon Lord</h1>
 
-
-<!--MK 7-->
-
-<h2>Mk VII</h2>
 <figure>
-    <img class="jlt" src="imgs/DP DA SM.jpg" alt = "MK VII"/> 
-    <figcaption class="fig"><span class="lineup">Don Airey replaces Jon Lord: </span> Gillan, Morse, Glover, Paice, Don Airey (keys) (2002-2022)</figcaption> 
+  <img src="imgs/mark7_group_photo.png" alt="photo of the 7th Deep Purple incarnation with newest member Don Airey">
+  <figcaption>
+    <span class="caption-title">Mark 7</span>
+    <br>
+    Gillan, Morse, Glover, Paice, Airey
+  </figcaption>
 </figure>
 
 <!--Bananas-->

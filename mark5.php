@@ -8,13 +8,17 @@
 <body>
     <?php include 'includes/header.php'; ?>
 
+<h1 id='h1'>Joe Lynn Turner Era - Mark 5</h1>
 
-<!--MK 5-->
-<h2>Mk V</h2>
 <figure>
-  <img class="jlt" src="imgs/DPwJLT.jpg" alt="Joe Lynn Turner">
-  <figcaption class="fig"><span class="lineup">Deep Rainbow: </span> Roger Glover, Jon Lord, Ritchie Blackmore, Joe Lynn Turner (vocals), Ian Paice (1989-1992)</figcaption>
+  <img src="imgs/mark5_group_photo.png" alt="group photo of Deep Purple with Joe Lynn Turner as lead singer">
+  <figcaption>
+    <span class="caption-title">Deep Rainbow</span>
+    <br>
+    Roger Glover, Jon Lord, Ritchie Blackmore, Joe Lynn Turner (vocals), Ian Paice (1989-1992)
+  </figcaption>
 </figure>
+
 
 <!--Slaves and Masters-->
 <h3 class='album_title_header'>Slaves and Masters - <em>1990</em></h3><p><img class="album_cover" src="imgs/cover_slaves_masters.png" alt="Slaves and Masters Cover"/>

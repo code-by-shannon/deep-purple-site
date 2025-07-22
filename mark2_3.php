@@ -10,16 +10,15 @@
 <body>
     <?php include 'includes/header.php'; ?>
 
-<!--Mk 2-->
-<h2>Mk II - 3rd Times a Charm?</h2>
-
-<!-- Mk II for the 3rd time! -->
+<h1 id='h1'>Mk II - 3rd Times a Charm?</h1>
 
 <figure>
-    <img src="imgs/BROpromo.jpg" alt="MK II Reunited">
-    <figcaption>
-    <span class="lineup">3rd time's the charm?</span>  Paice, Glover, Gillan, Blackmore, Lord
-</figcaption>
+  <img src="imgs/mark2_last_group_photo.png" alt="the legendary lineup reunites for the second and last time">
+  <figcaption>
+    <span class="caption-title">One last tour:</span>
+    <br>
+    Ian, Roger, Ian, Ritchie, Jon
+  </figcaption>
 </figure>
 
 <!--The Battle Rages On-->
