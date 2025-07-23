@@ -11,7 +11,7 @@
 
 <h1 id='h1'>Mark II Reunited</h1>
 <figure>
-  <img src="imgs/mark2_reunion_group_photo.png" alt="a group photo of mark 2 lineup reunited">
+  <img src="imgs/mark2_reunion_group_photo.png" class = 'group_photo' alt="a group photo of mark 2 lineup reunited">
   <figcaption>
     <span class="caption-title">Mark 2 reunited:</span>
     <br>

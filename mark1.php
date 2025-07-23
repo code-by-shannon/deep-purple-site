@@ -17,7 +17,7 @@
 
 
 <figure>
-  <img src="imgs/mark1_group_photo.png" alt="a group photo of the original Deep Purple lineup with Simper and Evans">
+  <img src="imgs/mark1_group_photo.png" class = 'group_photo' alt="a group photo of the original Deep Purple lineup with Simper and Evans">
   <figcaption>
     <span class="caption-title">Original Lineup:</span>
     <br>
@@ -66,7 +66,7 @@ I am basing this rating solely on the performance of the musicians and ignoring 
 
 
 <!-- to the next mk version -->
-<div>
+<div class='lineup-nav'>
   <a href="mark2.php">Mark II →</a>
 </div>
     

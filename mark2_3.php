@@ -13,7 +13,7 @@
 <h1 id='h1'>Mk II - 3rd Times a Charm?</h1>
 
 <figure>
-  <img src="imgs/mark2_last_group_photo.png" alt="the legendary lineup reunites for the second and last time">
+  <img src="imgs/mark2_last_group_photo.png" class = 'group_photo' alt="a group photo of the legendary lineup reunites for the second and last time">
   <figcaption>
     <span class="caption-title">One last tour:</span>
     <br>

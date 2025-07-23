@@ -14,10 +14,10 @@
 <?php include 'includes/header.php'; ?>
 
 <h1 id='h1'>Rainbow</h1>
-<figure>
-    <img src="imgs/rainbow/rainbow_logo.png" alt="Rainbow logo"/>
-</figure>
-
+<div class="band_logo">
+  <img src="imgs/rainbow/rainbow_logo.png"alt="Rainbow logo"/>
+</div>
+    
 <!--RB's Rainbow-->
 <h3 class='album_title_header'>Ritchie Blackmore's Rainbow - <em>1975</em></h3>
 <p class='review_text'>
@@ -48,8 +48,8 @@ Ritchie, was unhappy with the overall direction of Deep Purple during the making
 </p>
 
 <!-- Lineup Rising -->
-<figure class='gallery'>
-  <div>
+<figure>
+  <div class='gallery'>
     <img src="imgs/rainbow/toney_carey.png" alt="Tony Carey surrounded by a stack of keyboards"/>
     <img src="imgs/rainbow/cozy_powell.png" alt="Cozy Powell behind his double bass drums"/>
     <img src="imgs/rainbow/jimmy_bain.png" alt="Jimmy Bain playing bass in the fog"/>

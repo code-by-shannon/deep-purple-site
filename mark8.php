@@ -12,7 +12,7 @@
 <h1 id='h1'>Simon McBride Era - Mark VIII</h1>
 
 <figure>
-  <img src="imgs/mark8_group_photo.png" alt="photo of the 7th Deep Purple incarnation with newest member Don Airey">
+  <img src="imgs/mark8_group_photo.png" class = 'group_photo' alt="photo of the 7th Deep Purple incarnation with newest member Don Airey">
   <figcaption>
     <span class="caption-title">Mark 8</span>
     <br>
@@ -21,19 +21,14 @@
 </figure>
 
 
-<!-- NAVIGATION THROUGH THE MK LINEUPS BOTTOM OF PAGE -->
-<div class="lineup-nav">
-  <a href="mark7.php" class="nav-button">← Mark VII</a>
-  <span></span>
-</div>
 
 
 <!-- =1 -->
 <h3 class='album_title_header'>=1 - <em>2020</em></h3>
 <p class='review_text'>
 <img class="album_cover" src="imgs/cover_=_1.png" alt="Whoosh"/>
-
-<span class="yellow"> (rating: /5 whammy bars)</span>
+Review coming soon
+<span class="album_rating"> (rating: /5 whammy bars)</span>
 </p>
 
 <!-- NAVIGATION THROUGH THE MK LINEUPS BOTTOM OF PAGE -->

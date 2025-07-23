@@ -72,6 +72,43 @@ figure img{
     ** CONTENT IN ALL PAGES **
 ************************************/
 
+.band_logo{
+    max-width:500px;
+    text-align: center;
+    margin:auto;
+}
+
+.band_logo img{
+    width:100%;
+}
+
+/***** top photo for each lineup - usually a group photo *****/
+.group_photo{
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    display: block;
+}
+
+/*****  gallery photos on the rainbow and gillan pages - each member gets a photo *****/
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 1rem;
+    border:solid red 1px;
+    max-width:75%;
+    margin:auto;
+}
+
+.gallery img {
+    flex: 1 1 300px; /* allow growing/shrinking from a base */
+    max-width: 350px;
+    height: auto;
+    object-fit: cover;
+}
+
+
 /***** album covers *****/
 .album_title_header{
     text-align: center;
@@ -93,4 +130,22 @@ figure img{
 
 .infinite_hack{
     margin-bottom:5rem;
+}
+
+/*************************************************
+    ** navigate through the pages at bottom **
+**************************************************/
+
+.lineup-nav{
+    display:flex;
+    width: 60%;
+    margin:5rem auto;
+    justify-content: space-around;
+    padding:2rem;
+}
+
+.lineup-nav a{
+    border:solid black 2px;
+    padding:2rem;
+    text-decoration: none;
 }

@@ -11,8 +11,8 @@
 <?php include 'includes/header.php'; ?>
 
 <!-- IAN GILLAN LOGO -->
-<div>
-<img src="imgs/gillan/gillan_band_logo.png" alt="Ian Gillan Band logo"/>
+<div class = 'band_logo'>
+<img src="imgs/gillan/gillan_band_logo.png"  alt="Ian Gillan Band logo"/>
 </div>
 
 <!--Child In Time-->
@@ -45,7 +45,7 @@ Another very experimental and restless album from Ian Gillan.  The Ian Gillan Ba
 
 <!-- LINEUP: Clean Air Turbulence -->
 <figure>
-    <img src="imgs/gillan/mark2_group_photo.png" alt="Clean Air Turbulence Lineup"/>
+    <img src="imgs/gillan/mark2_group_photo.png" class='group_photo' alt="Clean Air Turbulence Lineup"/>
     <figcaption>Gustafason, Colin Towns, Mark Nauseef, Ian Gillan, Ray Fenwick</figcaption>
 </figure>
 
@@ -68,7 +68,9 @@ This is an excellent sampling of the live era of the Ian Gillan Band.  The Ian G
 
 <!--Gillan-->
 <!--Gillan Logo-->
-<img src="imgs/gillan/gillan_logo.png" alt="Gillan solo logo"/>
+<div class='band_logo'>
+  <img src="imgs/gillan/gillan_logo.png"  alt="Gillan solo logo"/>
+</div>
 
 <!-- Mr. Universe -->
 <h3 class='album_title_header'>Mr. Universe - <em>1979</em></h3>
@@ -119,7 +121,7 @@ The vinyl version of 'Double Trouble' is a double album with one disc dedicated 
 <!-- Janick Gers -->
 <figure>
 <div>
-<img src="imgs/gillan/janick_gers.png" alt="Janick Gers shredding his Stratocaster"></div>
+<img src="imgs/gillan/janick_gers.png" class = 'group_photo' alt="Janick Gers shredding his Stratocaster"></div>
 <figcaption>Janick Gers</figcaption>
 </div> 
 </figure>
@@ -186,10 +188,10 @@ Obviously, there is more to Ian Gillan than Olympic grade shrieking and especial
 <!-- NAVIGATION THROUGH THE MK LINEUPS BOTTOM OF PAGE -->
 <div class="lineup-nav">
   <a href="rainbow.php" class="nav-button">← Rainbow</a>
-  <a href="bolin.php" class="nav-button">Tommy Bolin →</a>
+  <a href="index.php" class="nav-button">Home</a>
 </div>
 
 
-<a href="index.php"><img id="logofixed" src="imgs/logofixed.png" alt="Deep Purple Homepage Logo">Home</a>
+<?php include 'includes/footer.php'; ?>
 </body>
 </html>

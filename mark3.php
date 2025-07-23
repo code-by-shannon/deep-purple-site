@@ -12,7 +12,7 @@
 
 
 <figure>
-<img src="imgs/mark3_group_photo.png" alt="a group photo of the original Deep Purple lineup with Simper and Evans">
+<img src="imgs/mark3_group_photo.png" class = 'group_photo' alt="a group photo of the original Deep Purple lineup with Simper and Evans">
   <figcaption>
     <span class="caption-title">Hughes, Coverdale era:</span> 
     <br>

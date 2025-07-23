@@ -13,7 +13,7 @@
 <h1 id='h1'>Don Airey Replaces Jon Lord</h1>
 
 <figure>
-  <img src="imgs/mark7_group_photo.png" alt="photo of the 7th Deep Purple incarnation with newest member Don Airey">
+  <img src="imgs/mark7_group_photo.png" class = 'group_photo' alt="a group photo of the 7th Deep Purple incarnation with newest member Don Airey">
   <figcaption>
     <span class="caption-title">Mark 7</span>
     <br>
