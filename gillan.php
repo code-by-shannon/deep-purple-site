@@ -12,7 +12,7 @@
 
 <!-- IAN GILLAN LOGO -->
 <div>
-<img src="imgs/Gillan logo 1.jpg" alt="Ian Gillan Band logo"/>
+<img src="imgs/gillan/gillan_band_logo.png" alt="Ian Gillan Band logo"/>
 </div>
 
 <!--Child In Time-->
@@ -25,12 +25,12 @@ Overall a very adventurous, experimental solo debut from Ian Gillan and his new 
 
 <!-- LINEUP:  Child in Time -->
 <figure>
-<div>
-  <img src="imgs/IG solo.jpg" alt="Ian Gillan"/>
-  <img src="imgs/rayf.jpg" alt="Ray Fenwick"/>
-  <img src="imgs/jgus.jpg" alt="John Gustafason"/>
-  <img src="imgs/MarcN.jpg" alt="Marc Nauseef"/>
-  <img src="imgs/MMkeys.jpg" alt="Mike Moran"/>
+<div class='gallery'>
+  <img src="imgs/gillan/ian_gillan_solo.png" alt="Ian Gillan with denim vest"/>
+  <img src="imgs/gillan/ray_fenwick.png" alt="Ray Fenwick with guitar"/>
+  <img src="imgs/gillan/john_gustafason.png" alt="John Gustafason with bass"/>
+  <img src="imgs/gillan/marc_nauseef.png" alt="Marc Nauseef behind the kit"/>
+  <img src="imgs/gillan/mike_moran.png" alt="Mike Moran posing by his car"/>
 </div>
 <figcaption>Ian Gillan, Ray Fenwick, John Gustafason, Mark Nauseef, Mike Moran (keys)</figcaption>
 </figure>
@@ -45,7 +45,7 @@ Another very experimental and restless album from Ian Gillan.  The Ian Gillan Ba
 
 <!-- LINEUP: Clean Air Turbulence -->
 <figure>
-    <img src="imgs/IBG w CT.jpg" alt="Clean Air Turbulence Lineup"/>
+    <img src="imgs/gillan/mark2_group_photo.png" alt="Clean Air Turbulence Lineup"/>
     <figcaption>Gustafason, Colin Towns, Mark Nauseef, Ian Gillan, Ray Fenwick</figcaption>
 </figure>
 
@@ -68,7 +68,7 @@ This is an excellent sampling of the live era of the Ian Gillan Band.  The Ian G
 
 <!--Gillan-->
 <!--Gillan Logo-->
-<img src="imgs/Gillan logo 2.png" alt="Gillan Logo"/>
+<img src="imgs/gillan/gillan_logo.png" alt="Gillan solo logo"/>
 
 <!-- Mr. Universe -->
 <h3 class='album_title_header'>Mr. Universe - <em>1979</em></h3>
@@ -80,10 +80,10 @@ A new lineup and new band as Ian Gillan changes the moniker from Ian Gillan Band
 
 <!-- LINEUP: Mr. Universe -->
 <figure>
-<div class="gallery universe"> 
-  <img class="IGphoto" src="imgs/McCoy.jpg" alt="John McCoy"/>
-  <img class = "IGphoto" src="imgs/Torme.jpg" alt="Bernie Torme"/>
-  <img class = "IGphoto" src="imgs/Underwood.png" alt = "Mick Underwood"/>
+<div class="gallery"> 
+  <img src="imgs/gillan/john_mccoy.png" alt="John McCoy"/>
+  <img src="imgs/gillan/bernie_torme.png" alt="Bernie Torme on guitar"/>
+  <img src="imgs/gillan/mick_underwood.png" alt = "Mick Underwood buried under a pile of drums"/>
 </div>
 <figcaption>John McCoy, Bernie Torme, Mick Underwood </figcaption>
 </figure>
@@ -119,7 +119,7 @@ The vinyl version of 'Double Trouble' is a double album with one disc dedicated 
 <!-- Janick Gers -->
 <figure>
 <div>
-<img src="imgs/Gers.jpg" alt="Janick Gers"></div>
+<img src="imgs/gillan/janick_gers.png" alt="Janick Gers shredding his Stratocaster"></div>
 <figcaption>Janick Gers</figcaption>
 </div> 
 </figure>
@@ -182,6 +182,12 @@ There's bad news on all fronts with 'Dreamcatcher.'  If you like Ian Gillan beca
 Obviously, there is more to Ian Gillan than Olympic grade shrieking and especially as he gets older he seems to favor mellower moods on his solo offerings.  After 1990, most of his solo efforts are fairly pedestrian, and this is no exception.  A man of his status always manages to dip into a pool of very talented musicians for each of his projects (what else would one expect from a singer of his pedigree?) but the material, while interesting and usually imaginative, often lacks the elusive quality that makes a song truly memorable.  This album opens with the eponymous "One Eye To Morocco" which is moody and dreamy and has a nice melody.  "Change My Ways" is a highpoint as well, with some blistering harmonica, ripping guitars and excellent keyboard work, it's a song that gains energy as it goes along.  After that, everything is mediocre at best
 <span>(review: 2.5/5 shrieks)</span>
 </p>
+
+<!-- NAVIGATION THROUGH THE MK LINEUPS BOTTOM OF PAGE -->
+<div class="lineup-nav">
+  <a href="rainbow.php" class="nav-button">← Rainbow</a>
+  <a href="bolin.php" class="nav-button">Tommy Bolin →</a>
+</div>
 
 
 <a href="index.php"><img id="logofixed" src="imgs/logofixed.png" alt="Deep Purple Homepage Logo">Home</a>

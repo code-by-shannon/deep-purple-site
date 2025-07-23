@@ -13,9 +13,9 @@
 <body>
 <?php include 'includes/header.php'; ?>
 
-<h2>Rainbow</h2>
+<h1 id='h1'>Rainbow</h1>
 <figure>
-    <img src="imgs/Rainbowlogo.jpg" alt="Rainbow logo"/>
+    <img src="imgs/rainbow/rainbow_logo.png" alt="Rainbow logo"/>
 </figure>
 
 <!--RB's Rainbow-->
@@ -26,20 +26,17 @@ Ritchie, was unhappy with the overall direction of Deep Purple during the making
   <span class='yellow'>(rating: 4.5/5 whammy bars)</span>
 </p>  
 
-
-
-
-
 <!-- Lineup: Ritchie Blackmore's Rainbow -->
 <figure>
-<div>
-  <img src="imgs/RB with guitar.jpg" alt="Ritchie"/><!--GTR-->
-  <img src="imgs/RJD.png" alt="Ronnie James Dio"/><!--VOX-->
-  <img src="imgs/MLS.jpg" alt="Mickey Lee Soule"/><!--KEY-->
-  <img src="imgs/CG.jpg" alt="Craig Gruber"/><!--BASS-->
-  <img src="imgs/GD.jpg" alt="Gary Driscoll"/><!--DRM-->
-</div>
-<figcaption>Ritchie, Ronnie, Mickey Lee Soule, Craig Gruber and Gary Driscoll the first Rainbow lineup, basically Elf with their guitar player replaced.  I hope he didn't take it personally, he wouldn't be the last.</figcaption>
+  <div class='gallery'>
+    <img src="imgs/rainbow/blackmore.png" alt="Ritchie with his Stratocaster"/>
+    <img src="imgs/rainbow/ronnie_dio.png" alt="Ronnie James Dio throwing devil horns"/>
+    <img src="imgs/rainbow/mickey_lee_soule.png" alt="Mickey Lee Soule behind the keys"/>
+    <img src="imgs/rainbow/charles_gruber.png" alt="Craig Gruber on the bass"/>
+    <img src="imgs/rainbow/gary_driscoll.png" alt="Gary Driscoll playing the drums"/>
+  </div>
+  <figcaption>Ritchie, Ronnie, Mickey Lee Soule, Craig Gruber and Gary Driscoll the first Rainbow lineup, basically Elf with their guitar player replaced.  I hope he didn't take it personally, he wouldn't be the last.
+  </figcaption>
 </figure>
 
 <!--Rising-->
@@ -51,13 +48,14 @@ Ritchie, was unhappy with the overall direction of Deep Purple during the making
 </p>
 
 <!-- Lineup Rising -->
-<figure>
-<div>
-  <img src="imgs/TC.jpg" alt="Tony Carey"/><!--KEY-->
-  <img src="imgs/CP.jpg" alt="Cozy Powell"/><!--BASS-->
-  <img src="imgs/JB.png" alt="Jimmy Bain"/><!--DRM-->
-</div>
-<figcaption>Cozy Powell (drums), Tony Carey (keys) and Jimmy Bain (bass), new blood for the second Rainbow lineup equal to the ferocity of DP MK2.  Too bad they would only stay together for the one album.  Damn you Ritchie!</figcaption>
+<figure class='gallery'>
+  <div>
+    <img src="imgs/rainbow/toney_carey.png" alt="Tony Carey surrounded by a stack of keyboards"/>
+    <img src="imgs/rainbow/cozy_powell.png" alt="Cozy Powell behind his double bass drums"/>
+    <img src="imgs/rainbow/jimmy_bain.png" alt="Jimmy Bain playing bass in the fog"/>
+  </div>
+  <figcaption>Cozy Powell (drums), Tony Carey (keys) and Jimmy Bain (bass), new blood for the second Rainbow lineup equal to the ferocity of DP MK2.  Too bad they would only stay together for the one album.  Damn you Ritchie!
+  </figcaption>
 </figure>
 
 <!-- Long Live Rock and Roll -->
@@ -70,9 +68,9 @@ Is this the best of the Rainbow studio albums?  That's arguable but this one def
 
 <!-- LINEUP Long Live Rock and Roll -->
 <figure>
-<div class="members LLRR">
-    <img src="imgs/BD.jpg" alt="Bob Daisely"/><!--KEY-->
-    <img src="imgs/DS.jpg" alt="David Stone"/><!--BASS-->
+<div class='gallery'>
+    <img src="imgs/rainbow/bob_daisely.png" alt="Bob Daisely playing bass in front of stacks"/>
+    <img src="imgs/rainbow/david_stone.png" alt="David Stone playing keys"/>
     </div>
     <figcaption>Another album, more lineup changes, bringing in David Stone on keys and Bod Daisely on bass.
     </figcaption>
@@ -88,10 +86,10 @@ New lineup, new direction which is to say, same Blackmore.  Lyrically we have ex
 
 <!-- LINEUP: Down To Earth -->
 <figure>
-<div class="members DTE">
-    <img src="imgs/GB.jpg" alt="Graham Bonnet"/><!--VOX-->
-    <img src="imgs/Don keys.jpg" alt="Don Airey"/><!--KEY-->
-    <img src="imgs/RG and RB.jpg" alt="Roger Glover"/><!--BASS-->
+<div class='gallery'>
+    <img src="imgs/rainbow/graham_bonnet.png" alt="Graham Bonnet with microphone"/>
+    <img src="imgs/rainbow/don_airey.png" alt="Don Airey on keys"/>
+    <img src="imgs/rainbow/roger_glover.png" alt="Roger Glover white suit and bass"/>
   </div>
 <figcaption>Another lineup change? yup!  Rainbow welcomes Graham Bonnet (vocals), Roger Glover (bass) and Don Airey (keys) to the Rainbow carousel.</figcaption>
 </figure>
@@ -104,6 +102,15 @@ At Ritchies's whim, Rainbow completes its transition from a dragon slaying metal
 <span>(rating: 3/5 whammy bars)</span>
 </p>
 
+<!--  LINEUP: Straight Between the Eyes -->
+<figure>
+<div class='gallery'>
+    <img src="imgs/rainbow/david_rosenthal.png" alt="David Rosenthal live playing keys"/>
+  </div>
+  <figcaption>New keyboard player: David Rosenthal!</figcaption>
+</figure>
+  
+
 <!-- Straight Between The Eyes-->
 <h3>Straight Between the Eyes - <em>1982</em></h3>
 <p class='review_text'>
@@ -114,10 +121,10 @@ At Blackmore's discretion, Rainbow morphs, almost overnight, from a metal, drago
 
 <!--  LINEUP: Straight Between the Eyes -->
 <figure>
-<div class="members SBTE">
-    <img src="imgs/david-rosenthal.jpg" alt="David Rosenthal"/><!--KEY-->
+<div class='gallery'>
+    <img src="imgs/rainbow/bobby_rondinelli.png" alt="Rainbow's new drummer Bobby Rondinelli"/>
   </div>
-  <figcaption>New keyboard player: David Rosenthal!</figcaption>
+  <figcaption>Rainbow's new drummer Bobby Rondinelli</figcaption>
 </figure>
   
 <!-- Bent Out of Shape--> 
@@ -130,8 +137,8 @@ Poppy?  Yes.  Foriegner clones?  At best.  Survivor clones?  At worst.  It's sti
 
 <!-- LINEUP: Bent Out Of Shape -->
 <figure>
-<div class="members SBTE">
-    <img src="imgs/Chuck_Burgi.jpg" alt="Chuck Burgi"/>
+<div class='gallery'>
+    <img src="imgs/rainbow/chuck_burgi.png" alt="Chuck Burgi behind the drums"/>
   </div>
   <figcaption>Chuck Burgi on drums anyone?</figcaption>
 </figure>
@@ -147,11 +154,11 @@ And herein lies the last time Ritchie will rock.  His guitar playing is solid if
 
 <!-- LINEUP: Stranger in Us All -->
 <figure>
-<div class="SIUA">
-  <img src="imgs/Doogie.jpg" alt="Doogie White"/><!--VOX-->
-  <img src="imgs/john-oreilly.jpg" alt="John O'Reilly"/><!--drums-->
-  <img src="imgs/paul morris.jpg" alt="Paul Morris"/><!--keys-->
-  <img src="imgs/greg smith.jpg" alt="Greg Smith"/><!--bss-->
+<div class='gallery'>
+  <img src="imgs/rainbow/doogie.png" alt="Doogie White jammin with the mic"/>
+  <img src="imgs/rainbow/john_oreilly.png" alt="John O'Reilly on the kit"/>
+  <img src="imgs/rainbow/paul_morris.png" alt="Paul Morris behind the keys"/>
+  <img src="imgs/rainbow/greg_smith.png" alt="Greg Smith with his low riding bass"/>
  </div>
 <figcaption>post Deep Purple (the second time) Rainbow and a whole new lineup once again!  Doogie White on vocals, John O'Reilly on drums, Paul Morris on keys and Greg Smith on bass</figcaption>
 </figure>
