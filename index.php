@@ -1,3 +1,6 @@
+<?php define('PAGE_TITLE', 'Deep Purple and Related Bands Home Page'); ?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 

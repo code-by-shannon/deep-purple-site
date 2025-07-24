@@ -2,7 +2,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
   <!-- Title -->
-  <title>Deep Purple Tribute Page | Home of the Legendary Rock Lineups</title>
+  <title><?php echo defined('PAGE_TITLE') ? PAGE_TITLE : 'Deep Purple Tribute Page'; ?></title>
+
   
   <!-- SEO Meta -->
   <meta name="description" content="Explore the history, music, and legacy of Deep Purple. Tribute page with album reviews, lineup info, and fan discussions.">

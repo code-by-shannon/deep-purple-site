@@ -1,3 +1,6 @@
+<?php define('PAGE_TITLE', 'Mark II - Deep Purple at Their Zenith'); ?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

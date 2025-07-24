@@ -1,3 +1,6 @@
+<?php define('PAGE_TITLE', 'Mark III - The Hughes and Coverdale Era begins'); ?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

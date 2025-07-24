@@ -1,3 +1,6 @@
+<?php define('PAGE_TITLE', 'Mark VII - Don Airey Era'); ?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

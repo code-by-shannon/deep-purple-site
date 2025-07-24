@@ -1,3 +1,6 @@
+<?php define('PAGE_TITLE', 'Mark VIII - Simon McBride Era'); ?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

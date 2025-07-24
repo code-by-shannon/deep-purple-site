@@ -1,3 +1,6 @@
+<?php define('PAGE_TITLE', 'Mark I - Deep Purple - Formation and First Lineup'); ?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

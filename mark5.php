@@ -1,3 +1,6 @@
+<?php define('PAGE_TITLE', 'Mark V - The Joe Lynn Turner Era'); ?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

@@ -1,3 +1,6 @@
+<?php define('PAGE_TITLE', 'Ian Gillan Solo - All Lineups and Albums'); ?>
+
+
 <!DOCTYPE html>
 <html>
 

@@ -1,3 +1,6 @@
+<?php define('PAGE_TITLE', 'Mark II - 1984 Reunion'); ?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

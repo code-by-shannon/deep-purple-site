@@ -1,3 +1,6 @@
+<?php define('PAGE_TITLE', 'Mark VI - Steve Morse Era Begins'); ?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

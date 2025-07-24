@@ -1,3 +1,5 @@
+<?php define('PAGE_TITLE', 'Every Rainbow Lineup and Album'); ?>
+
 <!DOCTYPE html>
 <html lang="en">
 
