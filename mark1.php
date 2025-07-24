@@ -11,9 +11,10 @@
 <!-- NAV BAR -->
 <?php include 'includes/header.php'; ?>
 
-
+<!-- MAIN -->
+<main>
 <!-- INTRO -->
-<h1 id='h1'>Formation and Mark I</h1>
+<h1>Formation and Mark I</h1>
 <p>Interestingly before Deep Purple became 'Deep Purple', they were originally called 'Roundabout' as the project was intended to be a band of revolving musicians with Chris Curtis of 'The Searchers' being the one constant member while playing the drums.  This was a short lived idea of Chris' who was never really in the band although he did his part by uniting Jon Lord with Ritchie Blackmore, thus forming the backbone Deep Purple.  Ironic then that Deep Purple has always been a revolving door of musicians and has hosted several different lineups through the years.  But fear not, for this never ending revolving door is made of legends, most of whom have also been in other amazing projects as well.  Through it's 40+ years and various personnel, it is surprisingly difficult to find anything but great offerings from these pioneers of hard rock.</p>
 
 
@@ -68,6 +69,7 @@ I am basing this rating solely on the performance of the musicians and ignoring 
 </p>  
 
 <span class="rating"> (rating: 4/5 whammy bars)</span>
+</main>
 
 
 <!-- to the next mk version -->

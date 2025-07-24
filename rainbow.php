@@ -10,7 +10,8 @@
 <body>
 <?php include 'includes/header.php'; ?>
 
-<h1 id='h1'>Rainbow</h1>
+<main>
+<h1>Rainbow</h1>
 <div class="band_logo">
   <img src="imgs/rainbow/rainbow_logo.png"alt="Rainbow logo"/>
 </div>
@@ -117,7 +118,6 @@ New lineup, new direction which is to say, same Blackmore.  Lyrically we have ex
     <figcaption>Roger Glover white suit and bass</figcaption>
   </figure>
 </div>
-<figcaption>Another lineup change? yup!  Rainbow welcomes Graham Bonnet (vocals), Roger Glover (bass) and Don Airey (keys) to the Rainbow carousel.</figcaption>
 
 
 <!--Difficult to Cure-->
@@ -150,7 +150,7 @@ At Blackmore's discretion, Rainbow morphs, almost overnight, from a metal, drago
 <div class='gallery'>
   <figure>
     <img src="imgs/rainbow/bobby_rondinelli.png" alt="Rainbow's new drummer Bobby Rondinelli"/>
-    <figcaption>Rainbow's new drummer Bobby Rondinelli</figcaption>f
+    <figcaption>Rainbow's new drummer Bobby Rondinelli</figcaption>
   </figure>
 </div>
  
@@ -193,11 +193,13 @@ And herein lies the last time Ritchie will rock.  His guitar playing is solid if
 
 <!--Compilations-->
 <!--Finyl Vinyl-->
-<h3 class='album_title_header'>Finyl Vinyl<em></em></h3>
+<h3 class='album_title_header'>Finyl Vinyl</h3>
 <p class='review_text'>
 <img class="album_cover" src="imgs/r_cover_finyl_vinyl.png" alt="Finyl Vinyl Cover"/>
 If you want skip the full platter of Joe Lynn Turner era offerings and get the highlights, this is the album to get.  Most of the versions are live and more energetic than the studio counterparts.  Also, you get a Graham Bonnet and a couple of Ronnie James Dio numbers to boot on this double LP.  But what makes it indespensible are the "live" instrumentals "Difficult to Cure" and "Weiss Heim."  "Difficult to Cure" especially, is worth the purchase of the album alone.  Ironically, RB hated playing with the orchestra in the early days of Deep Purple, but thanks to Rosenthal's arrangements, doing so turns out to be one of his most exciting numbers of all time.</p> 
 <span class='rating'>(rating: 5/5 whammy bars)</span>
+</main>
+
 
 
 <!-- NAVIGATION THROUGH THE MK LINEUPS BOTTOM OF PAGE -->

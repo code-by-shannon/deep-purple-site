@@ -11,7 +11,8 @@
 <body>
 <?php include 'includes/header.php'; ?>
 
-<h1 id='h1'>Don Airey Replaces Jon Lord</h1>
+<main>
+<h1>Don Airey Replaces Jon Lord</h1>
 
 <figure class='group_photo_figure'>
   <img src="imgs/mark7_group_photo.png" class = 'group_photo' alt="a group photo of the 7th Deep Purple incarnation with newest member Don Airey">
@@ -25,7 +26,7 @@
 <!--Bananas-->
 <h3 class='album_title_header'>Bananas<em> - 1996</em></h3>
 <p class='review_text'>
-<img class="album_cover" src="imgs/cover_bananas.png" alt="Bananas Cover"/>
+<img class="album_cover" src="imgs/cover_bananas.png" alt="Bananas album cover"/>
 Bananas?  Between the album cover and the title it's easy to assume that this is going to be a really bad album from a band who weren't even trying anymore.  And this album does have a strangely carefree attitude about it; the lyrics are fun throughout, Morse and Airey play some terrific solos and the rhythm section is in fine form throughout.  The album starts off hot with 'House of Pain,' 'Sun Goes Down' and 'Haunted' which is an unlikely mellow, believable heartbreak ballad from Gillan.  There's a slight drop off during the middle of the album where the songs tend to get a bit generic but it still has a lot of nice moments like the cathartic 'Walk On'.  It closes out in fine fashion however.  'Bananas,' the title track, has that old school Deep Purple vibe with a wild prog extension at the end.  'Doing It Tonight' is fun and jammy and the album wraps up with a somberly coda from Steve Morse titled 'Contact Lost.'  The fun that this album exudes puts it in direct contrast with 'The House of Blue Light'.  The material between these two albums is comparable, but the spirit and execution of 'Bananas' makes it so much more enjoyable.</p>
 <span class="rating"> (rating: 3.75/5 whammy bars)</span>
 
@@ -60,6 +61,9 @@ You just never know what you're gonna get when you spin a Deep Purple platter, l
 <img class="album_cover" src="imgs/cover_whoosh.png" alt="Whoosh"/>
 Is this the last Deep Purple studio album?  If it is, they made a pretty cool move in covering 'And the Address' to close out their career since it is the first song on their first album 'Shades of Deep Purple.'  Overall, however, this album is middle of the road.  'Whoosh' suffers from the same mistake so many artists have made since the advent of CD's;  what to do with all of that extra time available?  Vinyl was a temporally perfect format because of it's forced constraint, afterall an engineer could only cram so much material onto an LP, usually 40-45 minutes and this of course, forced all of the creative powers to make tough decisions regarding which material to include. 'Whoosh' is too long.  Ian Paice and Roger Glover prove for the umpteenth time why those two are so great together and Don Airey has definitely become the focus of the band with his amazing chops, melodic ideas, riffiness and expert soloing.  Ian Gillan? Well, his vocals ain't what they used to be but has always had a great imagination and creativity and this album is no different.  Morse is a brilliant, technical guitarist at times although he's guilty of recycling guitar solos and writing is not his strength.  Overall, this is just another average post Blackmore, post Lord album.  Nothing is truly terrible on here but nothing really stands out either.  If you're looking for a reminder of the glory days of Deep Purple, you won't find it here.  But if you're like me, and you just really love these guys and are interested in following their careers, you'll find plenty to enjoy on this record.</p>
 <span class="rating"> (rating: 2.5/5 whammy bars)</span>
+
+</main>
+
 
 
 <!-- NAVIGATION THROUGH THE MK LINEUPS BOTTOM OF PAGE -->

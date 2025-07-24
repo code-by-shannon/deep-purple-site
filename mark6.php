@@ -9,7 +9,8 @@
 <body>
     <?php include 'includes/header.php'; ?>
 
-<h1 id='h1'>Steve Morse Replaces Blackmore</h1>
+<main>
+<h1>Steve Morse Replaces Blackmore</h1>
 
 <figure class='group_photo_figure'>
   <img src="imgs/mark6_steve_morse.png" class = 'group_photo' alt="steve morse playing his guitar in front of a huge deep purple banner">
@@ -36,6 +37,8 @@ From this point forward, Deep Purple (which always seemed like Ritchie's band) w
 Steve Morse's style is more reminiscent of Gillan's old hot shot guitar player Janick Gers than Blackmore's which strengthens the comparison between Morse era Deep Purple and Ian Gillan's solo work. That's not all bad, Gers was a shredder of epic proportions.  'Abandon' is a diverse enough album, stylistically, with a few good ballads mixed in with heavier sounding tracks.  A bit of prog is sprinkled in as well, with uneven, but interesting results and a handful of truly great moments along the way.
 <span class="rating"> (rating: 3/5 whammy bars)</span>
 </p>
+
+</main>
 
 <!-- NAVIGATION THROUGH THE MK LINEUPS BOTTOM OF PAGE -->
 <div class="lineup-nav">

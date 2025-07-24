@@ -8,10 +8,11 @@
  
 <!-- BODY -->
 <body class='body_review_pages'>
-    <?php include 'includes/header.php'; ?>
+<?php include 'includes/header.php'; ?>
 
+<main>
 <!--Mk 2-->
-<h1 id='h1'>Mark II - Deep Purple at Their Zenith</h1>
+<h1>Mark II - Deep Purple at Their Zenith</h1>
 <figure class='group_photo_figure'>
   <img src="imgs/mark2_group_photo.png" class = 'group_photo' alt="a group photo of the famous mark 2 lineup jamming in the studio">
   <figcaption>
@@ -26,7 +27,7 @@
 <h3 class='album_title_header'>In Rock - <em>1970</em></h3>
 <p class='review_text'>
 <img class='album_cover' src="imgs/cover_in_rock.png" alt="In Rock Cover"/>
-The first truly essential Deep Purple album.  First off, make sure you find an overseas pressing so you you don't miss the long intro to 'Speed King' that the American release edited out.  It's a wonderfully chaotic opening that perfectly bookends the crazy atonal meltdown that concludes the album, the Mark II version of high art but this time served with a knuckle sandwich.  'Speed King' has, inarguably, the all time greatest Stratocaster vs Hammond B2 duel in recorded history.  It's jazzier vibe is nicely tucked away between the layers of mind melting hard rock.  The epic 'Child In Time' shows this band at the height of itself creative genius.  Gillan would never sing more dramatically than on this song, Lord has a moody, lovely and ominous organ intro, the song contains quite possibly Ritchie's best studio solo ever and the neoclassial riff doubled up by Lord to end Blackmore's solo is pure exhileration matched only by Gillans's encore vocal crescendos.  The entire album is consistently excellent albeit a minor complaint is that 'Bloodsucker,' 'Into the Fire' and 'Living Wreck' could have been shortened up a bit.  But this was assuredly a product of the 70's, and musical overindulgence from virtuosic instrumentalists who took pride in their craft was the order of the day, even if sometimes the song structure had to be relegated to secondary importance.  But let's not get too picky because 'Flight of the Rat' is an epic blast and 'Hard Lovin Woman' rocks until it finally loses control, crashes upside down, into the ditch, wheels still spinning, flames licking around the gas tank towards a catastrophic explosion.  But what a ride!
+The first truly essential Deep Purple album.  First off, make sure you find an overseas pressing so you don't miss the long intro to 'Speed King' that the American release edited out.  It's a wonderfully chaotic opening that perfectly bookends the crazy atonal meltdown that concludes the album, the Mark II version of high art but this time served with a knuckle sandwich.  'Speed King' has, inarguably, the all time greatest Stratocaster vs Hammond B2 duel in recorded history.  It's jazzier vibe is nicely tucked away between the layers of mind melting hard rock.  The epic 'Child In Time' shows this band at the height of its creative genius.  Gillan would never sing more dramatically than on this song, Lord has a moody, lovely and ominous organ intro, the song contains quite possibly Ritchie's best studio solo ever and the neoclassial riff doubled up by Lord to end Blackmore's solo is pure exhilaration matched only by Gillans's encore vocal crescendos.  The entire album is consistently excellent albeit a minor complaint is that 'Bloodsucker,' 'Into the Fire' and 'Living Wreck' could have been shortened up a bit.  But this was assuredly a product of the 70's, and musical overindulgence from virtuosic instrumentalists who took pride in their craft was the order of the day, even if sometimes the song structure had to be relegated to secondary importance.  But let's not get too picky because 'Flight of the Rat' is an epic blast and 'Hard Lovin Woman' rocks until it finally loses control, crashes upside down, into the ditch, wheels still spinning, flames licking around the gas tank towards a catastrophic explosion.  But what a ride!
 </p>
 <span class="rating"> (rating: 5/5 whammy bars)</span>
 <p>🎧 Songs that didn't make the album that you should definitely listen to:<b> Hallelujah, Black Night</b>
@@ -73,6 +74,8 @@ This is the definitive hard rock concert recording from the 70's.  Recorded as a
 First off, this album is not terrible even though critics have panned it as a product of it's background: exhaustion and sickness from relentless touring as well as the insurmountable and growing rift between Blackmore and Gillan who, by this point, refused to even be in the studio together at the same time.  Does all of this make for a bummer of an album?  Kind of.  Ultimately, Ritchie was getting the itch to go in a bluesier direction, as he was smitten with Paul Rodgers' vocal style.  In line with his mercurial nature, he wanted to shake up the lineup and the musical direction again.  When Ritchie has his heart elsewhere it can mean passionless solos like the one we get on 'Super Trouper.'  However, there are still many great moments:  'My Woman From Tokyo' is no doubt a classic Deep Purple song with a signature Blackmore riff and surreal bridge.  Rarely do we get to hear Jon Lord play piano so quietly and prettily, and rarely do we get to hear Gillan show such melodic range and restraint.  'Smooth Dancer' has good energy and it's funny that Gillan wrote the lyrics that so obviously disparage Ritchie's character.  Either Blackmore didn't notice, or more likely, couldn't even be bothered to care.  Paice's drumbeat is where the title 'Rat Bat Blue' comes from, according to Gillan and features the typically effortless drumming that gives disparate song parts fluidity, nimbly linking them together. 'Rat Bat Blue' also features an amazing if not comically over the top solo from Jon Lord.  'Our Lady' actually has some interesting Hendrix inspired R&B rhythm work form Ritchie (Hendrix was one of the few guitarists that even Ritchie would admit to admiring) as well as some very nice melodic development from Gillan adding depth with Beatlesque background harmonies and cool synthy sounds from Lord.
 </p> 
 <span class="rating"> (rating: 3.5/5 whammy bars)</span>
+</main>
+
 
 <!-- NAVIGATION THROUGH THE MK LINEUPS BOTTOM OF PAGE -->
 <div class="lineup-nav">

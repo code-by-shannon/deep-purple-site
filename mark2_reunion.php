@@ -9,8 +9,8 @@
 <body class = 'body_review_pages'>
 <?php include 'includes/header.php'; ?>
 
-
-<h1 id='h1'>Mark II Reunited</h1>
+<main>
+<h1>Mark II Reunited</h1>
 <figure class='group_photo_figure'>
   <img src="imgs/mark2_reunion_group_photo.png" class = 'group_photo' alt="a group photo of mark 2 lineup reunited">
   <figcaption>
@@ -35,6 +35,8 @@ The long awaited and anticipated reunion of not only Deep Purple but the venerat
 This album is glossy in it's production, like Joe Lynn Turner era Rainbow.  Although the intent is to deliver accessible pop, the musicianship is, of course, exceptional, throughout.  It's quite short on progressive ideas although there are a few here and there.  The highlights are 'Bad Attitude,' and 'Mad Dog' but 'Spanish Archer' is the real standout track with it's medieval guitar opening and a relentless exciting ambience that intensifies Gillan's captivating and powerful lyrics.  It's disappointing that Jon takes a back seat throughout almost the entirety of this album, because, it just isn't classic Deep Purple without the duels between Ritchie's Stratocaster and Jon's Hammond B2.  Every Deep Purple album is better when Lord is given a chance to shine.  On the bright side, many of the tunes are riffy enough but ultimately, there are too many slow and dull moments, most heinous of all is a recycled Rainbow riff that pops up in it's 3rd or 4th iteration.  This record fails because largely because it's a product of intentionally aiming for pop success.  The result is pop that isn't good enough to be truly popular while the bands strengths are watered down when they should be showcased.
 </p>
 <span class="rating"> (rating: 2.5/5 whammy bars)</span> 
+</main>
+
 
 <!-- NAVIGATION THROUGH THE MK LINEUPS BOTTOM OF PAGE -->
 <div class="lineup-nav">

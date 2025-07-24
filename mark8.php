@@ -3,18 +3,18 @@
 <head>
   <?php include 'includes/head.php'; ?>
   <link rel="stylesheet" href="css/purple.css">
-  <link rel="stylesheet" href="css/purple.css">
 </head>
     
 
 
 <body>
-    <?php include 'includes/header.php'; ?>
+<?php include 'includes/header.php'; ?>
 
-<h1 id='h1'>Simon McBride Era - Mark VIII</h1>
+<main>
+<h1>Simon McBride Era - Mark VIII</h1>
 
 <figure class='group_photo_figure'>
-  <img src="imgs/mark8_group_photo.png" class = 'group_photo' alt="photo of the 7th Deep Purple incarnation with newest member Don Airey">
+  <img src="imgs/mark8_group_photo.png" class = 'group_photo' alt="photo of the 8th Deep Purple incarnation with newest member Simon McBride">
   <figcaption>
     <span class="caption-title">Mark 8</span>
     <br>
@@ -22,15 +22,14 @@
   </figcaption>
 </figure>
 
-
-
-
 <!-- =1 -->
 <h3 class='album_title_header'>=1 - <em>2020</em></h3>
 <p class='review_text'>
 <img class="album_cover" src="imgs/cover_=_1.png" alt="Whoosh"/>
 Review coming soon</p>
 <span class="rating"> (rating: /5 whammy bars)</span>
+
+</main>
 
 
 <!-- NAVIGATION THROUGH THE MK LINEUPS BOTTOM OF PAGE -->

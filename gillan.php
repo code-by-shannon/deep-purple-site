@@ -11,8 +11,9 @@
 <body>
 <?php include 'includes/header.php'; ?>
 
-<!-- IAN GILLAN LOGO -->
-<h1 id='h1'>Ian Gillan / Ian Gillan Band / Gillan</h1>
+<main>
+  <!-- IAN GILLAN LOGO -->
+<h1>Ian Gillan / Ian Gillan Band / Gillan</h1>
 <div class="band_logo">
 <img src="imgs/gillan/gillan_band_logo.png"  alt="Ian Gillan Band logo"/>
 </div>
@@ -21,7 +22,7 @@
 <h3 class='album_title_header'>Child In Time - <em>1976</em></h3>
 <p class='review_text'>
 <img class="album_cover" src="imgs/i_cover_child_in_time.png" alt ="Child In Time Cover"/>
-Overall a very adventurous, experimental solo debut from Ian Gillan and his new band.  This album highlights his quirkiness and that's always a good sing.  Track highlights include 'Lay Me Down' with it's pumping bassline (John Gustafason), killer organ (Mike Moran) and a nice abstract guitar solo with plenty of meaty riffiness from Ray Fenwick.  'You Make Me Feel So Good' has Gillan yelping in fine form, and features nice slidework from Fenwick as well.  'Shame' is solid but 'My Baby Loves Me' doesn't develop much despite it's great guitar solo.  'Down the Road' is a bluesy ballad but there are too many multi tracked Ian's that get in the way of the idea although it probably sounded a lot trippier back in the day.  'Child In Time' kicks off the second side and gets things back on track.  Props to Ian for a completely original take on a Deep Purple staple.  He could have played it safe and done a straight reading but thankfully, that never was Ian's style!  This version is spacier, way more laid back and the guitar solo could not have been more radically different that Ritchie's, which is a smart move because not only would Ritchie's solo have been impossible to emulate, but Fenwick stays true to his strengths and plays to the song instead of trying to catch a ghost.  The album concludes with 'Let it Slide' which, unfortunately is long and episodic and just meanders through several uneventful landscapes with solos which, while they have a nice texture and tone, don't really develop much. It's pleasant enough harmonically, it's just a bit of a slog and feels like it was used to fill out the second side of the album.</p>
+Overall a very adventurous, experimental solo debut from Ian Gillan and his new band.  This album highlights his quirkiness and that's always a good sing.  Track highlights include 'Lay Me Down' with it's pumping bassline (John Gustafson), killer organ (Mike Moran) and a nice abstract guitar solo with plenty of meaty riffiness from Ray Fenwick.  'You Make Me Feel So Good' has Gillan yelping in fine form, and features nice slidework from Fenwick as well.  'Shame' is solid but 'My Baby Loves Me' doesn't develop much despite it's great guitar solo.  'Down the Road' is a bluesy ballad but there are too many multi tracked Ian's that get in the way of the idea although it probably sounded a lot trippier back in the day.  'Child In Time' kicks off the second side and gets things back on track.  Props to Ian for a completely original take on a Deep Purple staple.  He could have played it safe and done a straight reading but thankfully, that never was Ian's style!  This version is spacier, way more laid back and the guitar solo could not have been more radically different that Ritchie's, which is a smart move because not only would Ritchie's solo have been impossible to emulate, but Fenwick stays true to his strengths and plays to the song instead of trying to catch a ghost.  The album concludes with 'Let it Slide' which, unfortunately is long and episodic and just meanders through several uneventful landscapes with solos which, while they have a nice texture and tone, don't really develop much. It's pleasant enough harmonically, it's just a bit of a slog and feels like it was used to fill out the second side of the album.</p>
 <span class = 'rating'>(rating: 4/5 shrieks)</span>
 
 <!-- LINEUP:  Child in Time -->
@@ -35,8 +36,8 @@ Overall a very adventurous, experimental solo debut from Ian Gillan and his new 
     <figcaption>Ray Fenwick with guitar</figcaption>
   </figure>
   <figure>
-  <img src="imgs/gillan/john_gustafason.png" alt="John Gustafason with bass"/>
-    <figcaption>John Gustafason with bass</figcaption>
+  <img src="imgs/gillan/john_gustafson.png" alt="John Gustafson with bass"/>
+    <figcaption>John Gustafson with bass</figcaption>
   </figure>
   <figure>
   <img src="imgs/gillan/marc_nauseef.png" alt="Marc Nauseef behind the kit"/>
@@ -63,7 +64,7 @@ Another very experimental and restless album from Ian Gillan.  The Ian Gillan Ba
   <figcaption>
     <span class="caption-title">Clean Air Turbulence lineup</span>
   <br>
-  Gustafason, Colin Towns, Mark Nauseef, Ian Gillan, Ray Fenwick
+  Gustafson, Colin Towns, Mark Nauseef, Ian Gillan, Ray Fenwick
   </figcaption>
   </figure>
  
@@ -120,7 +121,7 @@ A new lineup and new band as Ian Gillan changes the moniker from Ian Gillan Band
 <p class='review_text'>
 <img class="album_cover" src="imgs/i_cover_glory_road.png" alt="Glory Road Cover"/>
 This album features a little more experimentation than 'Scarabus' and, as such, hearkens slightly back towards the Ian GIllan Band sound, but overall this is still a very riffy affair.  In many ways it's probably one of Gillan's more consistent albums but the rating is dragged down a notch as there aren't any songs that truly stand out.
-<span>(rating: 3.5/5 shrieks)</span>
+<span class = 'rating'>(rating: 3.5/5 shrieks)</span>
 <p class='review_text'>The opening of <span class=FGFO>'For Gillan Fans Only'</span>is a bonus LP that was included with 'Glory Road'.  It's a short album that features a great deal of British, Monty Python-esque humor throughout.  A hefty dose of silliness and a sense of humor was what made Ian Gillan such a valuable addition to Deep Purple.  And for this album, the usual complicated mix of humor, prog and hard rock/avant - garde that seems to come so easily for Ian Gillan, really perks the the ears up.  This album is a little greater than the sum of it's parts.</p>
 <span class='rating'>(rating: 3.75/5 shrieks)</span>
 
@@ -197,7 +198,7 @@ There's bad news on all fronts with 'Dreamcatcher.'  If you like Ian Gillan beca
 <h3 class='album_title_header'>Gillan's Inn - <em>2006</em></h3>
 <p class='review_text'>
 <img class="album_cover" src= "imgs/i_cover_gillans_inn.png" alt="Gillan's Inn Cover">
->This double album is an updated review of Gillan's career wherein he brings in a tons of guests to revisit his old material, and, happily, a lot of very interesting names pop up on the credits including Tony Iommi, Joe Satriani, Ronnie James Dio, Uli Jon Roth and of course, quite a few Deep Purple alumni to boot.  Old songs sound fresh again with updated production and Ian Gillan is quoted as saying this was the easiest record he ever made in his life.  Although every track isn't a winner, overall, this album does flow very easily from beginning to end.  Highlights include 'Unchain Your Brain,' 'Bluesy Blue Sea,' 'Trashed,' 'No Worries,' 'No Laughing in Heaven' and 'Loving On Borrowed Time.'  Demerits for the 10000th remake of 'Smoke On The Water.'  Here are some recognizable names that grace this album:  Don Airey, Ronnie James Dio, Joe Elliot, Janick Gers, Roger Glover, Jeff Healey, Tony Iommi, Jon Lord, Steve Morris, Steve Morse, Ian Paice, Uli Jon Roth, Joe Satriani, Mickey Lee Soule.</p>
+This double album is an updated review of Gillan's career wherein he brings in a tons of guests to revisit his old material, and, happily, a lot of very interesting names pop up on the credits including Tony Iommi, Joe Satriani, Ronnie James Dio, Uli Jon Roth and of course, quite a few Deep Purple alumni to boot.  Old songs sound fresh again with updated production and Ian Gillan is quoted as saying this was the easiest record he ever made in his life.  Although every track isn't a winner, overall, this album does flow very easily from beginning to end.  Highlights include 'Unchain Your Brain,' 'Bluesy Blue Sea,' 'Trashed,' 'No Worries,' 'No Laughing in Heaven' and 'Loving On Borrowed Time.'  Demerits for the 10000th remake of 'Smoke On The Water.'  Here are some recognizable names that grace this album:  Don Airey, Ronnie James Dio, Joe Elliot, Janick Gers, Roger Glover, Jeff Healey, Tony Iommi, Jon Lord, Steve Morris, Steve Morse, Ian Paice, Uli Jon Roth, Joe Satriani, Mickey Lee Soule.</p>
 <span class='rating'>(review: 3.5/5 shrieks)</span>
 
 
@@ -207,6 +208,8 @@ There's bad news on all fronts with 'Dreamcatcher.'  If you like Ian Gillan beca
 <img class="album_cover" src= "imgs/i_cover_one_eye_morocco.png" alt="One Eye to Morocco Cover">
 Obviously, there is more to Ian Gillan than Olympic grade shrieking and especially as he gets older he seems to favor mellower moods on his solo offerings.  After 1990, most of his solo efforts are fairly pedestrian, and this is no exception.  A man of his status always manages to dip into a pool of very talented musicians for each of his projects (what else would one expect from a singer of his pedigree?) but the material, while interesting and usually imaginative, often lacks the elusive quality that makes a song truly memorable.  This album opens with the eponymous "One Eye To Morocco" which is moody and dreamy and has a nice melody.  "Change My Ways" is a highpoint as well, with some blistering harmonica, ripping guitars and excellent keyboard work, it's a song that gains energy as it goes along.  After that, everything is mediocre at best</p>
 <span class='rating'>(review: 2.5/5 shrieks)</span>
+</main>
+
 
 
 <!-- NAVIGATION THROUGH THE MK LINEUPS BOTTOM OF PAGE -->

@@ -10,15 +10,16 @@
 
 
 <!-- BODY -->
+
 <body class='index'>
+  <!-- NAV BAR -->
+<?php include 'includes/header.php'; ?> 
+<main>
   <h1 id='h1'>Deep Purple Tribute Page</h1>
 <!-- INTRO TO WEBSITE PARAGRAPH -->
   <p>You are on the homepage of my tribute to the greatest band in the whole space truckin galaxy.  Herein, you shall find reviews of every album in their discography, written by yours truly.  And maybe quizzes and games and who knows what else you might find?  This is part tribute and part me learning how to build websites.  The links below will take you to the different eras of Deep Purple as well as closely related bands in the Deep Purple family such as Rainbow and Ian Gillan.  Please leave comments.  It's nice to know that someone besides bots are visiting my pages!
   </p>
-
-<!-- NAV BAR -->
-<?php include 'includes/header.php'; ?> 
-
+</main>
 
 <!-- FOOTER -->
 <footer>
