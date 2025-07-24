@@ -8,11 +8,17 @@ body{
     margin-bottom:2rem;
 }
 
+.band_logo img{
+    border-radius: 4px;
+    box-shadow: .2rem .2rem .2rem floralwhite;
+}
+
 .album_cover{
     border:solid floralwhite 4px;
     border-radius:4px;
 }
 
-#h1{
-    margin-bottom: 2rem;
+.album_title_header{
+    margin-top:3rem;
+    margin-bottom:2rem;
 }

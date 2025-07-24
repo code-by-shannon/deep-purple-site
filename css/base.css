@@ -121,7 +121,7 @@ figure img{
     justify-content: space-evenly;
     gap: 1rem;
     max-width:75%;
-    margin:auto;
+    margin: 5rem auto 5rem;
 }
 
 .gallery img {
@@ -136,6 +136,13 @@ figure img{
 
 .gallery figcaption{
     text-align: center;
+}
+
+/** reviews (span) **/
+.rating{
+    display:block;
+    color:gold;
+    margin-top:1rem;
 }
 
 
