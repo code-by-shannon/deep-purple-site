@@ -12,12 +12,12 @@
 <h1 id='h1'>Mark 3 with new members David Coverdale and Glenn Hughes</h1>
 
 
-<figure>
-<img src="imgs/mark3_group_photo.png" class = 'group_photo' alt="a group photo of the original Deep Purple lineup with Simper and Evans">
+<figure class='group_photo_figure'>
+<img src="imgs/mark3_group_photo.png" class = 'group_photo' alt="a group photo of the band playing live with Coverdale and Hughes now in the lineup">
   <figcaption>
     <span class="caption-title">Hughes, Coverdale era:</span> 
     <br>
-    Jon Lord, Glenn Hughes (vocals, bass), Ian Paice, David Coverdale (vocals), Ritchie Blackmore (1973-1975)
+    Jon Lord, Glenn Hughes, Ian Paice, David Coverdale, Ritchie Blackmore (1973-1975)
   </figcaption>
 </figure>
 

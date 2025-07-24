@@ -12,7 +12,7 @@
 
 <!--Mk 2-->
 <h1 id='h1'>Mark II - Deep Purple at Their Zenith</h1>
-<figure>
+<figure class='group_photo_figure'>
   <img src="imgs/mark2_group_photo.png" class = 'group_photo' alt="a group photo of the famous mark 2 lineup jamming in the studio">
   <figcaption>
     <span class="caption-title">The legendary Deep Purple lineup:</span>

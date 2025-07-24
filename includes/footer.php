@@ -21,6 +21,8 @@
         text-decoration: none;
         font-size: 1.2rem;
         border:solid 1px black;
+        background-color: floralwhite;
+        color:black;
     }
 
     #shannon{
@@ -28,5 +30,15 @@
         text-align: center;
         margin-top:5rem;
         margin-bottom:10rem;
+        color:floralwhite
+    }
+
+    #shannon a{
+        color:floralwhite;
+        text-decoration: none;
+    }
+
+    #shannon a:hover{
+        color:orange;
     }
 </style>

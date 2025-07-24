@@ -11,7 +11,7 @@
 
 <h1 id='h1'>Steve Morse Replaces Blackmore</h1>
 
-<figure>
+<figure class='group_photo_figure'>
   <img src="imgs/mark6_steve_morse.png" class = 'group_photo' alt="steve morse playing his guitar in front of a huge deep purple banner">
   <figcaption>
     <span class="caption-title">Mark 6</span>

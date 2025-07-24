@@ -12,7 +12,7 @@
 
  
 <h1 id='h1'>Tommy Bolin Era</h1>
-<figure>
+<figure class='group_photo_figure'>
   <img src="imgs/mark4_group_photo.png" class = 'group_photo' alt="a group photo with new member Tommy Bolin">
   <figcaption>
     <span class="caption-title">Mark IV Lineup:</span>

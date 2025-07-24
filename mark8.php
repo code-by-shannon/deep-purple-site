@@ -13,7 +13,7 @@
 
 <h1 id='h1'>Simon McBride Era - Mark VIII</h1>
 
-<figure>
+<figure class='group_photo_figure'>
   <img src="imgs/mark8_group_photo.png" class = 'group_photo' alt="photo of the 7th Deep Purple incarnation with newest member Don Airey">
   <figcaption>
     <span class="caption-title">Mark 8</span>

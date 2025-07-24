@@ -11,7 +11,7 @@
 
 <h1 id='h1'>Joe Lynn Turner Era - Mark 5</h1>
 
-<figure>
+<figure class='group_photo_figure'>
   <img src="imgs/mark5_group_photo.png" class = 'group_photo' alt="group photo of Deep Purple with Joe Lynn Turner as lead singer">
   <figcaption>
     <span class="caption-title">Deep Rainbow</span>
