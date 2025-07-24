@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(116, 153, 231);
+    text-shadow: .2px .2px .2px floralwhite;
+}
+
+.album_cover{
+    border:rgb(6, 6, 212) solid 1px;
+    box-shadow;
+}

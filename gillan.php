@@ -4,6 +4,7 @@
 <!-- HEAD -->
 <head>
 <?php include 'includes/head.php'?>
+<link rel="stylesheet" href="css/gillan.css">
 </head>
 
 
@@ -24,16 +25,33 @@ Overall a very adventurous, experimental solo debut from Ian Gillan and his new 
 </div>  
 
 <!-- LINEUP:  Child in Time -->
-<figure>
 <div class='gallery'>
+  <figure>
   <img src="imgs/gillan/ian_gillan_solo.png" alt="Ian Gillan with denim vest"/>
+    <figcaption>Ian Gillan with denim vest</figcaption>
+  </figure>
+  <figure>
   <img src="imgs/gillan/ray_fenwick.png" alt="Ray Fenwick with guitar"/>
+    <figcaption>Ray Fenwick with guitar</figcaption>
+  </figure>
+  <figure>
   <img src="imgs/gillan/john_gustafason.png" alt="John Gustafason with bass"/>
+    <figcaption>John Gustafason with bass</figcaption>
+  </figure>
+  <figure>
   <img src="imgs/gillan/marc_nauseef.png" alt="Marc Nauseef behind the kit"/>
+    <figcaption>Marc Nauseef behind the kit</figcaption>
+  </figure>
+  <figure>
   <img src="imgs/gillan/mike_moran.png" alt="Mike Moran posing by his car"/>
+    <figcaption>Mike Moran posing by his car</figcaption>
+  </figure>
+  
+  
+  
+  
+ 
 </div>
-<figcaption>Ian Gillan, Ray Fenwick, John Gustafason, Mark Nauseef, Mike Moran (keys)</figcaption>
-</figure>
 
 <!--Clear Air Turbulence-->
 <h3 class='album_title_header'>Clear Air Turbulence - <em>1977</em></h3>
@@ -44,11 +62,16 @@ Another very experimental and restless album from Ian Gillan.  The Ian Gillan Ba
 </p>
 
 <!-- LINEUP: Clean Air Turbulence -->
-<figure>
-    <img src="imgs/gillan/mark2_group_photo.png" class='group_photo' alt="Clean Air Turbulence Lineup"/>
-    <figcaption>Gustafason, Colin Towns, Mark Nauseef, Ian Gillan, Ray Fenwick</figcaption>
-</figure>
 
+<figure>
+  <img src="imgs/gillan/mark2_group_photo.png" class='group_photo' alt="Clean Air Turbulence Lineup"/>
+  <figcaption>
+    <span class="caption-title">Clean Air Turbulence lineup</span>
+  <br>
+  Gustafason, Colin Towns, Mark Nauseef, Ian Gillan, Ray Fenwick
+  </figcaption>
+  </figure>
+ 
 <!--Scarabus-->
 <h3 class='album_title_header'>Scarabus - <em>1977</em></h3>
 <p class='review_text'>
@@ -81,14 +104,22 @@ A new lineup and new band as Ian Gillan changes the moniker from Ian Gillan Band
 </p>
 
 <!-- LINEUP: Mr. Universe -->
-<figure>
+
 <div class="gallery"> 
-  <img src="imgs/gillan/john_mccoy.png" alt="John McCoy"/>
-  <img src="imgs/gillan/bernie_torme.png" alt="Bernie Torme on guitar"/>
-  <img src="imgs/gillan/mick_underwood.png" alt = "Mick Underwood buried under a pile of drums"/>
+  <figure>
+    <img src="imgs/gillan/john_mccoy.png" alt="John McCoy"/>
+    <figcaption>John McCoy</figcaption>
+  </figure>
+  <figure>
+    <img src="imgs/gillan/bernie_torme.png" alt="Bernie Torme on guitar"/>
+    <figcaption>Bernie Torme on guitar</figcaption>
+  </figure>
+  <figure>
+    <img src="imgs/gillan/mick_underwood.png" alt = "Mick Underwood buried under a pile of drums"/>
+    <figcaption>Mick Underwood buried under a pile of drums</figcaption>
+  </figure>
 </div>
-<figcaption>John McCoy, Bernie Torme, Mick Underwood </figcaption>
-</figure>
+
 
         
 <!-- Glory Road / For Gillan Fans Only-->        
@@ -119,12 +150,13 @@ The vinyl version of 'Double Trouble' is a double album with one disc dedicated 
 </p>
 
 <!-- Janick Gers -->
+<div class = 'gallery'>
 <figure>
-<div>
-<img src="imgs/gillan/janick_gers.png" class = 'group_photo' alt="Janick Gers shredding his Stratocaster"></div>
-<figcaption>Janick Gers</figcaption>
-</div> 
+  <img src="imgs/gillan/janick_gers.png" class = 'group_photo' alt="Janick Gers shredding his Stratocaster">
+  <figcaption>Janick Gers shredding his Stratocaster</figcaption>
 </figure>
+</div> 
+
 
 <!--Magic-->
 <h3 class='album_title_header'>Magic - <em>1982</em></h3>
