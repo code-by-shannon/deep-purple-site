@@ -17,9 +17,9 @@
 
 /****** nav bar *****/
 #main-nav ul{
+    margin:5rem auto 5rem;
     display:flex;
     flex-wrap:wrap;
-    border:solid black 2px;
     list-style:none;
     justify-content: center;
     gap:1rem;
@@ -30,13 +30,16 @@
 }
 
 #main-nav a{
+    color:floralwhite;
     text-decoration: none;
     font-size: 1.5rem;
 }
 
-.bolded-nav{
-    font-weight: bold;
+#main-nav a:hover{
+    color:orange;
 }
+
+
 
 /********************
     **  INDEX **
@@ -46,10 +49,13 @@
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
+    background-color: purple;
+    color:floralwhite;
 }
 
 #h1{
     text-align:center;
+    text-shadow: .5rem .5rem .5rem black;
 }
 
 .index,
@@ -99,6 +105,9 @@ figure img{
     height: auto;
     display: block;
     text-align: center;
+    border:solid 2px black;
+    box-shadow: .2rem .2rem .2rem black;
+
 }
 
 /*****  gallery photos on the rainbow and gillan pages - each member gets a photo *****/
@@ -130,6 +139,7 @@ figure img{
 .album_title_header{
     text-align: center;
     font-size: 1.5rem;
+    text-shadow: .2rem .2rem .2rem black;
 }
 
 .album_cover{
