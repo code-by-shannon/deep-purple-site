@@ -23,6 +23,7 @@
         border:solid 1px black;
         background-color: floralwhite;
         color:black;
+        border-radius: 8px;
     }
 
     #shannon{

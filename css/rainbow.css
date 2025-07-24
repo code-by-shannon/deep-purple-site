@@ -22,3 +22,8 @@ body{
     margin-top:3rem;
     margin-bottom:2rem;
 }
+
+/****** nav bar *****/
+#main-nav{
+    background-color: rgb(178, 75, 11);
+}

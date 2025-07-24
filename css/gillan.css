@@ -17,3 +17,8 @@ body{
     margin-top:3rem;
     margin-bottom:1.8rem;
 }
+
+/****** nav bar *****/
+#main-nav{
+    background-color: rgb(34, 85, 196);
+}
