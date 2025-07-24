@@ -11,6 +11,10 @@
     text-align: center;
 }
 
+#header-logo-pic img{
+    box-shadow: .5px .5px .5px floralwhite;
+}
+
 /****** nav bar *****/
 #main-nav ul{
     display:flex;
