@@ -96,16 +96,22 @@ figure img{
     flex-wrap: wrap;
     justify-content: space-evenly;
     gap: 1rem;
-    border:solid red 1px;
     max-width:75%;
     margin:auto;
 }
 
 .gallery img {
-    flex: 1 1 300px; /* allow growing/shrinking from a base */
-    max-width: 350px;
-    height: auto;
+    width: 300px;
+    height: 300px;
     object-fit: cover;
+    flex-shrink: 0;
+    border:black 1px solid;
+    box-shadow: .5px .5px .5px floralwhite;
+}
+
+
+.gallery figcaption{
+    text-align: center;
 }
 
 

@@ -4,6 +4,7 @@
 <!-- HEAD -->
 <head>
   <?php include 'includes/head.php'; ?>
+  <link rel="stylesheet" href="css/rainbow.css">
 </head>
 
    
@@ -27,17 +28,28 @@ Ritchie, was unhappy with the overall direction of Deep Purple during the making
 </p>  
 
 <!-- Lineup: Ritchie Blackmore's Rainbow -->
-<figure>
-  <div class='gallery'>
+<div class='gallery'>
+  <figure>  
     <img src="imgs/rainbow/blackmore.png" alt="Ritchie with his Stratocaster"/>
-    <img src="imgs/rainbow/ronnie_dio.png" alt="Ronnie James Dio throwing devil horns"/>
+    <figcaption>Ritchie with his Strat</figcaption>
+  </figure>
+  <figure>
+  <img src="imgs/rainbow/ronnie_dio.png" alt="Ronnie James Dio throwing devil horns"/>
+    <figcaption>RJD throwing devil horns</figcaption>
+  </figure>
+  <figure>
     <img src="imgs/rainbow/mickey_lee_soule.png" alt="Mickey Lee Soule behind the keys"/>
+    <figcaption>Mickey Lee Soule behind the keys</figcaption>
+  </figure>
+  <figure>
     <img src="imgs/rainbow/charles_gruber.png" alt="Craig Gruber on the bass"/>
+    <figcaption>Craig Gruber on the bass</figcaption>
+  </figure>
+  <figure>
     <img src="imgs/rainbow/gary_driscoll.png" alt="Gary Driscoll playing the drums"/>
-  </div>
-  <figcaption>Ritchie, Ronnie, Mickey Lee Soule, Craig Gruber and Gary Driscoll the first Rainbow lineup, basically Elf with their guitar player replaced.  I hope he didn't take it personally, he wouldn't be the last.
-  </figcaption>
-</figure>
+    <figcaption>Gary Driscoll playing the drums</figcaption>
+  </figure>
+</div>
 
 <!--Rising-->
 <h3 class='album_title_header'>Rising - <em>1976</em></h3>
@@ -48,15 +60,21 @@ Ritchie, was unhappy with the overall direction of Deep Purple during the making
 </p>
 
 <!-- Lineup Rising -->
-<figure>
   <div class='gallery'>
+    <figure>
     <img src="imgs/rainbow/toney_carey.png" alt="Tony Carey surrounded by a stack of keyboards"/>
+      <figcaption>Tony Carey surrounded by a stack of keyboards</figcaption>
+    </figure>
+    <figure>
     <img src="imgs/rainbow/cozy_powell.png" alt="Cozy Powell behind his double bass drums"/>
+      <figcaption>Cozy Powell behind his double bass drums</figcaption>
+    </figure>
+    <figure>
     <img src="imgs/rainbow/jimmy_bain.png" alt="Jimmy Bain playing bass in the fog"/>
+      <figcaption>Jimmy Bain playing bass in the fog</figcaption>
+    </figure>
   </div>
-  <figcaption>Cozy Powell (drums), Tony Carey (keys) and Jimmy Bain (bass), new blood for the second Rainbow lineup equal to the ferocity of DP MK2.  Too bad they would only stay together for the one album.  Damn you Ritchie!
-  </figcaption>
-</figure>
+  
 
 <!-- Long Live Rock and Roll -->
 <h3 class='album_title_header'>Long Live Rock n Roll - <em>1977</em></h3>
@@ -67,14 +85,19 @@ Is this the best of the Rainbow studio albums?  That's arguable but this one def
 </p>
 
 <!-- LINEUP Long Live Rock and Roll -->
-<figure>
+
 <div class='gallery'>
+  <figure>
     <img src="imgs/rainbow/bob_daisely.png" alt="Bob Daisely playing bass in front of stacks"/>
-    <img src="imgs/rainbow/david_stone.png" alt="David Stone playing keys"/>
-    </div>
-    <figcaption>Another album, more lineup changes, bringing in David Stone on keys and Bod Daisely on bass.
-    </figcaption>
-</figure>
+    <figcaption>Bob Daisely playing bass in front of stacks</figcaption>
+  </figure>
+  <figure>
+  <img src="imgs/rainbow/david_stone.png" alt="David Stone playing keys"/>
+    <figcaption>David Stone playing keys</figcaption>
+  </figure>
+</div>
+  
+
 
 <!--Down to Earth-->
 <h3 class='album_title_header'>Down To Earth - <em>1979</em></h3> 
@@ -85,14 +108,26 @@ New lineup, new direction which is to say, same Blackmore.  Lyrically we have ex
 </p>
 
 <!-- LINEUP: Down To Earth -->
-<figure>
+
 <div class='gallery'>
+  <figure>
     <img src="imgs/rainbow/graham_bonnet.png" alt="Graham Bonnet with microphone"/>
+    <figcaption>Graham Bonnet with microphone</figcaption>
+  </figure>
+  <figure>
     <img src="imgs/rainbow/don_airey.png" alt="Don Airey on keys"/>
+    <figcaption>Don Airey on keys</figcaption>
+  </figure>
+  <figure>
     <img src="imgs/rainbow/roger_glover.png" alt="Roger Glover white suit and bass"/>
+    <figcaption>Roger Glover white suit and bass</figcaption>
+  </figure>
+    
+    
+    
   </div>
 <figcaption>Another lineup change? yup!  Rainbow welcomes Graham Bonnet (vocals), Roger Glover (bass) and Don Airey (keys) to the Rainbow carousel.</figcaption>
-</figure>
+
 
 <!--Difficult to Cure-->
 <h3 class='album_title_header'>Difficult to Cure - <em>1981</em></h3>
@@ -103,12 +138,12 @@ At Ritchies's whim, Rainbow completes its transition from a dragon slaying metal
 </p>
 
 <!--  LINEUP: Straight Between the Eyes -->
-<figure>
 <div class='gallery'>
+  <figure>
     <img src="imgs/rainbow/david_rosenthal.png" alt="David Rosenthal live playing keys"/>
-  </div>
-  <figcaption>New keyboard player: David Rosenthal!</figcaption>
-</figure>
+    <figcaption>New keyboard player: David Rosenthal!</figcaption>
+  </figure>
+</div>
   
 
 <!-- Straight Between The Eyes-->
@@ -120,28 +155,34 @@ At Blackmore's discretion, Rainbow morphs, almost overnight, from a metal, drago
 </p>
 
 <!--  LINEUP: Straight Between the Eyes -->
-<figure>
+
 <div class='gallery'>
+  <figure>
     <img src="imgs/rainbow/bobby_rondinelli.png" alt="Rainbow's new drummer Bobby Rondinelli"/>
-  </div>
-  <figcaption>Rainbow's new drummer Bobby Rondinelli</figcaption>
-</figure>
+    <figcaption>Rainbow's new drummer Bobby Rondinelli</figcaption>f
+  </figure>
+</div>
+ 
+
   
 <!-- Bent Out of Shape--> 
 <h3 class='album_title_header'>Bent Out of Shape - <em>1983</em></h3>
 <p class='review_text'>
 <img class="album_cover" src="imgs/r_cover_bent_out_of_shape.png" alt="Bent Out Of Shape"/>
-Poppy?  Yes.  Foriegner clones?  At best.  Survivor clones?  At worst.  It's still hard rock but the pop and gloss sheen just doesn't hold up for a full album.  Joe Lynn Turner tries to will some life into these songs and there are a handful of great Blackmore solos as usual but it's just not enough to be memorable pop and it's not hard enough or adventurous enough to be good hard rock.  It loses on both fronts.  The album starts promising with 'Stranded' and 'Can't Let You Go' and then much later in the album they hit a home run with 'Street of Dreams.'  The rest is entirely forgettable.  Skip this one, all the songs you need from here are on the essential Finyl Vinyl.
+Poppy?  Yes.  Foreigner clones?  At best.  Survivor clones?  At worst.  It's still hard rock but the pop and gloss sheen just doesn't hold up for a full album.  Joe Lynn Turner tries to will some life into these songs and there are a handful of great Blackmore solos as usual but it's just not enough to be memorable pop and it's not hard enough or adventurous enough to be good hard rock.  It loses on both fronts.  The album starts promising with 'Stranded' and 'Can't Let You Go' and then much later in the album they hit a home run with 'Street of Dreams.'  The rest is entirely forgettable.  Skip this one, all the songs you need from here are on the essential Finyl Vinyl.
 <span>(rating: 1.5/5 whammy bars)</span>
 </p>
 
 <!-- LINEUP: Bent Out Of Shape -->
-<figure>
+
 <div class='gallery'>
+  <figure>
     <img src="imgs/rainbow/chuck_burgi.png" alt="Chuck Burgi behind the drums"/>
-  </div>
-  <figcaption>Chuck Burgi on drums anyone?</figcaption>
-</figure>
+    <figcaption>Chuck Burgi on drums anyone?</figcaption>
+  </figure>
+</div>
+  
+
   
 
 <!--Stranger In Us All-->
@@ -171,9 +212,6 @@ And herein lies the last time Ritchie will rock.  His guitar playing is solid if
 If you want skip the full platter of Joe Lynn Turner era offerings and get the highlights, this is the album to get.  Most of the versions are live and more energetic than the studio counterparts.  Also, you get a Graham Bonnet and a couple of Ronnie James Dio numbers to boot on this double LP.  But what makes it indespensible are the "live" instrumentals "Difficult to Cure" and "Weiss Heim."  "Difficult to Cure" especially, is worth the purchase of the album alone.  Ironically, RB hated playing with the orchestra in the early days of Deep Purple, but thanks to Rosenthal's arrangements, doing so turns out to be one of his most exciting numbers of all time.
 <span>(rating: 5/5 whammy bars)</span>
 </p>
-
-
-<a href="index.php"><img id="logofixed" src="imgs/logofixed.png" alt="fixed logo"></a>
 
 <!-- NAVIGATION THROUGH THE MK LINEUPS BOTTOM OF PAGE -->
 <div class="lineup-nav">

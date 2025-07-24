@@ -1,3 +1,10 @@
 body{
-    background-color: rgb(237, 118, 237);
+    background-color: rgb(138, 13, 138);
+    color:floralwhite;
+    text-shadow: .5px .5px .5px coral;
+}
+
+.album_cover{
+    border:solid coral 4px;
+    border-radius:4px;
 }

@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(234, 106, 27);
+    color:rgb(235, 230, 221);
+    text-shadow: .5px .5px .5px black;
+}
+
+.album_cover{
+    border:solid floralwhite 4px;
+    border-radius:4px;
+}
