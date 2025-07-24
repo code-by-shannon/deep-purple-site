@@ -29,9 +29,9 @@
 <h3 class='album_title_header'>=1 - <em>2020</em></h3>
 <p class='review_text'>
 <img class="album_cover" src="imgs/cover_=_1.png" alt="Whoosh"/>
-Review coming soon
-<span class="album_rating"> (rating: /5 whammy bars)</span>
-</p>
+Review coming soon</p>
+<span class="rating"> (rating: /5 whammy bars)</span>
+
 
 <!-- NAVIGATION THROUGH THE MK LINEUPS BOTTOM OF PAGE -->
 <div class="lineup-nav">

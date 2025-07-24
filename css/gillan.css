@@ -4,7 +4,16 @@ body{
     text-shadow: .2px .2px .2px floralwhite;
 }
 
+#h1{
+    margin-bottom:3rem;
+}
+
 .album_cover{
-    border:rgb(6, 6, 212) solid 1px;
-    
+    border:coral solid 1px;
+    box-shadow: .2rem .2rem .2rem black;
+}
+
+.album_title_header{
+    margin-top:3rem;
+    margin-bottom:1.8rem;
 }
