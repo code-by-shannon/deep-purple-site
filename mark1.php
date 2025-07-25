@@ -4,12 +4,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<?php include 'includes/head.php'; ?> 
-<link rel="stylesheet" href='css/purple.css'>
+  <?php include 'includes/head.php'; ?> 
 </head>
     
 <!-- BODY -->
-<body class = 'body_review_pages'>
+<body>
 
 <!-- NAV BAR -->
 <?php include 'includes/header.php'; ?>

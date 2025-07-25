@@ -26,10 +26,9 @@
   <!-- Stylesheet -->
   <link rel="stylesheet" href="css/base.css">
 
-
-  
   <!-- Favicon -->
   <link rel="icon" href="imgs/favicon1.png" type="image/png">
   <!-- GOOGLE FONT -->
   <link href="https://fonts.googleapis.com/css2?family=Amarante&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Fascinate&display=swap" rel="stylesheet">

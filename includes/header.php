@@ -9,7 +9,9 @@ $hideLogoPages = ['rainbow.php', 'gillan.php']; // add more as needed
 
 <!-- LOGO WITH GROUP PIC -->
 <?php if (!in_array($currentPage, $hideLogoPages)): ?>
-  <div id='header-logo-pic'><img src="imgs/deeppurplelogo.png" alt="logo"/></div>
+  <div id='header-logo-pic'>
+    <p id='fascinate_font'>Deep Purple</p>
+    <img src="imgs/deeppurplelogo.png" alt="logo"/></div>
 <?php endif; ?>
 
 <!-- NAV BAR -->

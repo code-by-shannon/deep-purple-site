@@ -6,7 +6,6 @@
 
 <head>
   <?php include 'includes/head.php'; ?> 
-  <link rel="stylesheet" href="css/index.css">
 </head>
     
    
@@ -14,7 +13,7 @@
 
 <!-- BODY -->
 
-<body class='index'>
+<body>
   <!-- NAV BAR -->
 <?php include 'includes/header.php'; ?> 
 <main>

@@ -7,12 +7,25 @@
 /*******************    
     ** HEADER **
 ********************/
+
+/* header-logo-pic div */
 #header-logo-pic{
+    margin-top:5rem;
+    display:flex;
     text-align: center;
+    justify-content: space-around;
 }
 
 #header-logo-pic img{
-    box-shadow: .5px .5px .5px floralwhite;
+    box-shadow: .5rem .5rem .5rem purple;
+    border-radius: 8px;
+}
+
+#fascinate_font{
+    font-family: Fascinate, sans-serif;
+    color:purple;
+    font-size: 7rem;
+    text-shadow: black .5rem .5rem .5rem;
 }
 
 /****** nav bar *****/
@@ -60,12 +73,6 @@ h1{
     text-align:center;
     text-shadow: .5rem .5rem .5rem black;
     margin-bottom:1rem;
-}
-
-.index,
-.body_review_pages p{
-    font-size: 1.2rem;
-    margin:1rem;
 }
 
 /***********************

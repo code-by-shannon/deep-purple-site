@@ -5,12 +5,12 @@
 <html lang="en">
 <head>
     <?php include 'includes/head.php'; ?>
-    <link rel="stylesheet" href="css/purple.css">
+  
 </head>
     
  
 <!-- BODY -->
-<body class='body_review_pages'>
+<body>
 <?php include 'includes/header.php'; ?>
 
 <main>
