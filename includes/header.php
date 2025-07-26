@@ -16,6 +16,7 @@ $hideLogoPages = ['rainbow.php', 'gillan.php']; // add more as needed
 
 <!-- NAV BAR -->
 <nav id='main-nav'>
+    <p>Click below to explore the different Deep Purple lineups and related projects</p>
     <ul>
         <li><a href="index.php"><span class='bolded-nav'>Home</span></a></li>
         <li><a href="mark1.php"><span class='bolded-nav'>Mark I</span> - Early Years</a></li>
