@@ -4,6 +4,7 @@
     padding:0;
     font-family: Dosis, sans-serif;
     font-size:1.5rem;
+    border:red solid 1px;
 }
 
 /*******************    
@@ -244,6 +245,16 @@ figure img{
 @media (max-width: 700px) {
     #header-logo-pic{
         width:90%;
+    }
+
+    .lineup-nav{
+        border:solid 1px green;
+        width:80%;
+    }
+
+    .lineup-nav a{
+        font-size: 1rem;
+        padding:0;
     }
 } 
 
