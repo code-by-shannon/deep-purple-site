@@ -13,7 +13,9 @@
 <?php include 'includes/header.php'; ?>
 
 <main>
+<!-- INTRO -->
 <h1>Tommy Bolin Era</h1>
+<p class = 'intro-blurb'>Blackmore leaves to form Rainbow and guitar extraordinaire Tommy Bolin is brought in as his replacement.  A short lived but excellent version of Deep Purple.</p>
 <figure class='group_photo_figure'>
   <img src="imgs/mark4_group_photo.png" class = 'group_photo' alt="a group photo with new member Tommy Bolin">
   <figcaption>
@@ -25,6 +27,9 @@
 
 
 <!--Come Taste the Band-->
+<div class='title_cover_review_rating_div'>
+  
+</div>
 <h3 class='album_title_header'>Come Taste the Band - <em>1975</em></h3>
 <p class='review_text'>
 <img class="album_cover" src="imgs/cover_come_taste_the_band.png" alt="Come Taste the Band Cover"/> 
@@ -34,12 +39,15 @@ Another major lineup change and another great album.  Somehow, this isn't shocki
 
 
 <!--Long Beach 1976-->
+<div class='title_cover_review_rating_div'>
 <h3 class='album_title_header'>Long Beach -<em>1976</em></h3>
 <p class='review_text'>
 <img class="album_cover" src="imgs/cover_long_beach.png" alt="Live 1976 Cover"/> 
 First of all, relegating Tommy Bolin to rank of cover guitarist, while unavoidable in this situation, is difficult to listen to.  Blackmore, by this point had played all of these songs so brilliantly on previous live versions that no one in the universe could step in and do them justice.  Bolin was a gamer, and it goes without saying, a brilliant guitarist in his own right, but listening to him try to paint by number his way through classic Deep Purple material (let alone on a Les Paul, egad!)  well, it's nowhere near as satisfying as hearing the live renditions of the material from 'Come Taste the Band'.  'Smoke on the Water' is a blessing and a curse for this band as obviously it and the other classics had to be played to placate the audience.  But the MK IV material is much more satisfying to listen to on this album.  Still, anything with Bolin on it, due to his short career, is essential.  After this tour, or part way through it, drugs would eat away at the heart and soul of this short lived lineup, leaving behind all of the untapped potential.  In fact, Deep Purple would remain quiet for 8 long years afterwards . . .
 </p>
 <span class="rating"> (rating: 4/5 whammy bars)</span>
+  
+</div>
 
 </main>
  

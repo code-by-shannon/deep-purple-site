@@ -17,7 +17,9 @@
 <main>
 <!-- INTRO -->
 <h1>Formation and Mark I</h1>
-<p>Interestingly before Deep Purple became 'Deep Purple', they were originally called 'Roundabout' as the project was intended to be a band of revolving musicians with Chris Curtis of 'The Searchers' being the one constant member while playing the drums.  This was a short lived idea of Chris' who was never really in the band although he did his part by uniting Jon Lord with Ritchie Blackmore, thus forming the backbone Deep Purple.  Ironic then that Deep Purple has always been a revolving door of musicians and has hosted several different lineups through the years.  But fear not, for this never ending revolving door is made of legends, most of whom have also been in other amazing projects as well.  Through it's 40+ years and various personnel, it is surprisingly difficult to find anything but great offerings from these pioneers of hard rock.</p>
+<p class = 'intro-blurb'><b>Formation:</b> Interestingly before Deep Purple became 'Deep Purple', they were originally called 'Roundabout' as the project was intended to be a band of revolving musicians with Chris Curtis of 'The Searchers' being the one constant member while playing the drums.  This was a short lived idea of Chris' who was never really in the band although he did his part by uniting Jon Lord with Ritchie Blackmore, thus forming the backbone Deep Purple.  Ironic then that Deep Purple has always been a revolving door of musicians and has hosted several different lineups through the years.  But fear not, for this never ending revolving door is made of legends, most of whom have also been in other amazing projects as well.  Through it's 40+ years and various personnel, it is surprisingly difficult to find anything but great offerings from these pioneers of hard rock.</p>
+
+<p class = 'intro-blurb'><b>Mark I: </b>This is where it all begins.  If you're looking for the songs that made them famous, you're not going to find them here, although 'Kentucky Woman' and 'Hush' were popular on the radio during the time.  This lineup is very much a product of the 60's, with it's psych trappings, odd, uneven mixes, heavy reliance on covers, rushed production deadlines and limited studio time.  This is Jon Lord's band, first and foremost, his organ leading the way into psychedelia with concertos and classical stylings mixed in with heavy rock elements.  Blackmore doesn't yet have his signature swagger on guitar although there are flashes of brilliance peppered in.  The most intriguing aspect of MK I is the depths of their progressiveness showcased on their third album, the eponymous 'Deep Purple.'  There's plenty of greatness on these early albums, but with a lineup change pending, they were soon to go from being quite good, to legendary.</p>
 
 
 <figure class='group_photo_figure'>
@@ -29,12 +31,8 @@
   </figcaption>
 </figure>
 
-<!-- INTRO -->
-<p>This is where it all begins.  If you're looking for the songs that made them famous, you're not going to find them here, although 'Kentucky Woman' and 'Hush' were popular on the radio during the time.  This lineup is very much a product of the 60's, with it's psych trappings, odd, uneven mixes, heavy reliance on covers, rushed production deadlines and limited studio time.  This is Jon Lord's band, first and foremost, his organ leading the way into psychedelia with concertos and classical stylings mixed in with heavy rock elements.  Blackmore doesn't yet have his signature swagger on guitar although there are flashes of brilliance peppered in.  The most intriguing aspect of MK I is the depths of their progressiveness showcased on their third album, the eponymous 'Deep Purple.'  There's plenty of greatness on these early albums, but with a lineup change pending, they were soon to go from being quite good, to legendary.</p>
-
-
-
 <!--Shades of Deep Purple -->
+<div class='title_cover_review_rating_div'>
 <h3 class='album_title_header'>Shades of Deep Purple - <em>1968</em></h3>
 <p class='review_text'>
 <img class="album_cover" src="imgs/cover_shades.png" alt="Shades of Deep Purple Album Cover"/>
@@ -42,18 +40,24 @@ Their first album kicks off their career in fine fashion!  It's not quite stylis
 </p>
 
 <span class="rating"> (rating: 3.75/5 whammy bars)</span>
+</div>
+
 
 
 <!--Book of Taliesyn-->
+<div class='title_cover_review_rating_div'>
 <h3 class='album_title_header'>The Book of Taliesyn - <em>1968</em></h3>
 <p class='review_text'>
 <img class="album_cover" src="imgs/cover_book_of_T.png"  alt="Book of Taliesyn Cover"/>
   Demerits for covering a Beatles song two albums in a row.  It's one too many times to the well and points to a big problem; lack of original material and an over reliance on covers.  Deep Purple is most exciting when they allow their creativity to flow.  Case in point is on 'Kentucky Woman,' an average song on it's own and a questionable choice for the band but what really stands out about this song is the manner in which the middle section de-evolves into a chaotic, psychedelic, freak out mess which, most likely, would have sent Neil Diamond running and screaming in the opposite direction if he ever listened to it.  'Listen Learn Read On' doesn't hold up well to repeated listenings despite a tremendous distorted bass solo from Simper.  The rest of the album leans toward a sophisticated kind of art-rock although  'Wring That Neck' would become a signature song for the band with not only a pseudo classical influence but hard rockin solos, inching the band closer to what they would soon become at their height.  With 'River Deep Mountain High' (another cover) the arrangement transcends the song, taking the Mk I lineup to a new high and setting the stage for the 3rd Deep Purple album which would be by far, the best album that this lineup produced.
 </p>
 
-<span class="rating"> (rating: 3.5/5 whammy bars)</span>
+<span class="rating"> (rating: 3.5/5 whammy bars)</span>  
+</div>
+
 
 <!--Deep Purple Eponymous-->
+<div class='title_cover_review_rating_div'>
 <h3 class='album_title_header'>Deep Purple - <em>1969</em></h3>
 <p class='review_text'>
 <img class="album_cover" src="imgs/cover_DP_epon.png" alt="Deep Purple Eponymous Cover"/>
@@ -62,15 +66,20 @@ Their first album kicks off their career in fine fashion!  It's not quite stylis
 
 <span class="rating"> (rating: 4.75/5 whammy bars)</span>
 <p>🎧 Songs that didn't make the album that you should definitely listen to:<b> Emmaretta</b></p>
+ 
+</div>
 
 <!--Live at Inglewood-->
+<div class='title_cover_review_rating_div'>
 <h3 class='album_title_header'>Live at Inglewood - <em>1968 (released 2009) </em></h3>
 <p class='review_text'>
 <img class='album_cover' src="imgs/cover_live_inglewood.png" alt="Live At Inglewood Cover"/>
 I am basing this rating solely on the performance of the musicians and ignoring the shoddy recording quality which will undoubtedly be a huge turn-off for many.  Some may even find this artifact unlistenable.  Ultimately, we are lucky to have this souvenir of a live performance (and a very good one at that) from the MK I lineup.  The production has massive eq problems, distortion from clipping and an uneven mix (good luck making out the bass, which is a complete shame because Nicky was a damn fine player!)  Of course the bass drum is inaudible as well.  But the performances are great all the way around and this album feels more like classic Purple, due to the live setting, than any of the studio albums ever did.  This shouldn't be a surprise as this band always played with more energy live (especially Lord and Blackmore.)  Case in point: even 'Kentucky Woman' (such a dull choice for a cover) feels heavier and 'River Deep Mountain High' is a triumph.  Both outdo their studio counterparts.  It's a short set that's heavy on covers and while it's not essential, it's a helluva nice addition to your Deep Purple collection.  If you can find it, and don't mind the less than ideal production, get it!
 </p>  
 
-<span class="rating"> (rating: 4/5 whammy bars)</span>
+<span class="rating"> (rating: 4/5 whammy bars)</span>  
+</div>
+
 </main>
 
 
