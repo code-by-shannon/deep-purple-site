@@ -88,7 +88,7 @@
 
 h1{
     text-align:center;
-    text-shadow: .5rem .5rem .5rem black;
+    text-shadow: 2px 2px 2px rgb(243, 193, 243);
     margin-bottom:1rem;
 }
 
@@ -178,7 +178,7 @@ figure img{
 .album_title_header{
     text-align: center;
     font-size: 1.5rem;
-    text-shadow: .2rem .2rem .2rem black;
+    text-shadow: 2px 2px 2px rgb(243, 193, 243);
 }
 
 .album_cover{
@@ -244,7 +244,7 @@ figure img{
 /*****  smallest - 850 *****/
 @media (max-width: 850px) {
     #header-logo-pic{
-        width:90%;
+        width:98%;
     }
 
     .lineup-nav{
@@ -256,8 +256,16 @@ figure img{
         padding:0;
     }
 
+    #main-nav{
+        margin-top:1rem;
+    }
+
+    #main-nav p{
+        background-color: rgb(244, 241, 237);
+    }
+
     #main-nav ul{
-        margin: 5rem 0;
+        margin: 1rem 0;
         padding:0;
         width:98%;
         text-align: center;
