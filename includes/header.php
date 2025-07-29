@@ -29,7 +29,7 @@ $hideLogoPages = ['rainbow.php', 'gillan.php']; // add more as needed
         <li><a href="mark6.php"><span class='bolded-nav'>Mark VI</span> - Steve Morse era</a></li>
         <li><a href="mark7.php"><span class='bolded-nav'>Mark VII</span> - Don Airey era</a></li>
         <li><a href="mark8.php"><span class='bolded-nav'>Mark VIII</span> - Simon McBride</a></li>
-        <li><a href="rainbow.php"><span class='bolded-nav'>Rainbow</span> - Ritchie Blackmore</a></li>
-        <li><a href="gillan.php"><span class='bolded-nav'>Ian Gillan</span> - Ian Gillan</a></li>
+        <!-- <li><a href="rainbow.php"><span class='bolded-nav'>Rainbow</span> - Ritchie Blackmore</a></li>
+        <li><a href="gillan.php"><span class='bolded-nav'>Ian Gillan</span> - Ian Gillan</a></li> -->
     </ul>
 </nav>

@@ -16,13 +16,13 @@
 
 <main>
 <!-- INTRO -->
-<h1>Don Airey Replaces Jon Lord</h1>
+<h1>Mk VII- <br>Don Airey</h1>
 <p class = 'intro-blurb'>As Jon Lord's health steadily declines, Airey (formerly of Rainbow and Whitesnake) takes on a partnering role at first but eventually replaces Jon as the keyboardist</p>
 
 <figure class='group_photo_figure'>
   <img src="imgs/mark7_group_photo.png" class = 'group_photo' alt="a group photo of the 7th Deep Purple incarnation with newest member Don Airey">
   <figcaption>
-    <span class="caption-title">Mark 7</span>
+    <!-- <span class="caption-title">Mark 7</span> -->
     <br>
     Gillan, Morse, Glover, Paice, Airey
   </figcaption>

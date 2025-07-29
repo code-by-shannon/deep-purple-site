@@ -14,7 +14,7 @@
 
 <main>
 <!-- INTRO -->
-<h1>Tommy Bolin Era</h1>
+<h1>Mark IV -<br>Tommy Bolin</h1>
 <p class = 'intro-blurb'>Blackmore leaves to form Rainbow and guitar extraordinaire Tommy Bolin is brought in as his replacement.  A short lived but excellent version of Deep Purple.</p>
 <figure class='group_photo_figure'>
   <img src="imgs/mark4_group_photo.png" class = 'group_photo' alt="a group photo with new member Tommy Bolin">

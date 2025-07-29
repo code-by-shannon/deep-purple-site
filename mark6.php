@@ -14,15 +14,14 @@
 
 <main>
 <!-- INTRO -->
-<h1>Steve Morse Replaces Blackmore</h1>
+<h1>Mk VI- <br>Steve Morse</h1>
 <p class = 'intro-blurb'>Steve Morse is recruited as the new ax slinger and will add stability to the band at that spot for the next 30 years</p>
 
 <figure class='group_photo_figure'>
   <img src="imgs/mark6_steve_morse.png" class = 'group_photo' alt="steve morse playing his guitar in front of a huge deep purple banner">
   <figcaption>
-    <span class="caption-title">Mark 6</span>
     <br>
-    Roger Glover, Jon Lord, Steve Morse, Ian Gillan, Ian Paice 
+    Glover, Lord, Steve Morse (above), Gillan, Paice 
   </figcaption>
 </figure>
 

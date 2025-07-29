@@ -14,7 +14,7 @@
 
 <main>
 <!-- INTRO -->
-<h1>Mark 3 with new members David Coverdale and Glenn Hughes</h1>
+<h1>Mark III -<br>Coverdale and Hughes</h1>
 <p class = 'intro-blurb'>The move towards a blusier direction.  And vocal harmonies as well.  This lineup still shows Deep Purple at the top of their game</p>
 
 <figure class='group_photo_figure'>

@@ -225,18 +225,58 @@ figure img{
     margin:5rem auto;
     justify-content: space-around;
     padding:2rem;
-    
 }
 
 .lineup-nav a{
-    background-color: floralwhite;
-    border:solid black 2px;
+    background-color: rgb(177, 74, 177);
     padding:2rem;
     text-decoration: none;
-    color:black;
+    color:floralwhite;
     border-radius:8px;
+    box-shadow:2px 2px 2px rgb(177, 83, 177);
 }
 
+/********************
+    ** FOOTER **
+*********************/
+
+html{
+    scroll-behavior: smooth;
+}
+
+.home_or_top{
+    margin:2rem, auto, 10rem;
+    text-align:center;
+}
+
+.home_or_top a{
+    padding:2rem;
+    text-decoration: none;
+    font-size: 1.2rem;
+    border:solid 1px black;
+    background-color: floralwhite;
+    color:black;
+    border-radius: 8px;
+}
+
+#shannon{
+    display:block;
+    text-align: center;
+    margin-top:10rem;
+    margin-bottom:10rem;
+    color:purple;
+    font-size: 1.6rem;
+}
+
+#shannon a{
+    color:rgb(210, 75, 210);
+    text-decoration: none;
+    font-size: 2rem;
+}
+
+#shannon a:hover{
+    color:rgb(221, 146, 6);
+}
 /*********************************
     ***** MEDIA QUERIES *****
 **********************************/
@@ -260,19 +300,29 @@ figure img{
 
 /*****  smallest - 850 *****/
 @media (max-width: 850px) {
+   .title_cover_review_rating_div p,
+   .intro-blurb,
+   .rating,
+   b{
+        font-size:1rem;
+    }
+
     #header-logo-pic{
         width:98%;
     }
 
     .lineup-nav{
-        width:80%;
+        justify-content: center;
+        flex-direction: column;
+        width:100%;
+        gap:5px;
+        text-align: center;
     }
 
     .lineup-nav a{
         font-size: 1rem;
-        padding:0;
     }
-
+    
     #main-nav{
         margin-top:1rem;
     }
@@ -300,15 +350,21 @@ figure img{
         padding: .5rem 0; /* vertical padding only, consistent */
     }
     
-
     nav ul li:nth-child(odd) {
         background-color: purple;
-      }
+    }
       
-      nav ul li:nth-child(even) {
+    nav ul li:nth-child(even) {
         background-color: rgb(148, 6, 148);
-      }
-      
+    }
+
+    /***** FOOTER *****/
+    .home_or_top{
+        display: flex;
+        flex-direction: column;
+        gap:5px;
+        width:100%;
+    }
 } 
 
 

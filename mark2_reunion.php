@@ -13,7 +13,7 @@
 
 <main>
 <!-- INTRO -->
-<h1>Mark II Reunited</h1>
+<h1>Mark II- <br> Reunited</h1>
 <p class = 'intro-blurb'>After almost a decade, Mk II reunites!</p>
 <figure class='group_photo_figure'>
   <img src="imgs/mark2_reunion_group_photo.png" class = 'group_photo' alt="a group photo of mark 2 lineup reunited">

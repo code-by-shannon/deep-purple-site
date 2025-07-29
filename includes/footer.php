@@ -7,7 +7,7 @@
 
 
 <style>
-    html{
+    /* html{
         scroll-behavior: smooth;
     }
 
@@ -31,15 +31,15 @@
         text-align: center;
         margin-top:5rem;
         margin-bottom:10rem;
-        color:floralwhite
+        color:purple;
     }
 
     #shannon a{
-        color:floralwhite;
+        color:purple;
         text-decoration: none;
     }
 
     #shannon a:hover{
         color:orange;
-    }
+    } */
 </style>

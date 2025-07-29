@@ -15,13 +15,12 @@
 
 <main>
 <!-- INTRO -->
-<h1>Simon McBride Era - Mark VIII</h1>
-<p class = 'intro-blurb'>One last go around with new guitarist Simon McBride?</p>
+<h1>Mark VIII- <br>Simon McBride</h1>
+<p class = 'intro-blurb'>One last go around with a new guitarist</p>
 
 <figure class='group_photo_figure'>
   <img src="imgs/mark8_group_photo.png" class = 'group_photo' alt="photo of the 8th Deep Purple incarnation with newest member Simon McBride">
   <figcaption>
-    <span class="caption-title">Mark 8</span>
     <br>
     Simon McBride, the new purple guitarist
   </figcaption>
@@ -43,7 +42,7 @@ We enter the Simon McBride era.  Steve Morse called it a career after approximat
 <!-- NAVIGATION THROUGH THE MK LINEUPS BOTTOM OF PAGE -->
 <div class="lineup-nav">
   <a href="mark7.php" class="nav-button">← Mark VII</a>
-  <a href="rainbow.php" class="nav-button">Rainbow →</a>
+  <!-- <a href="rainbow.php" class="nav-button">Rainbow →</a> -->
 </div>
 
 

@@ -14,7 +14,7 @@
 
 <main>
 <!-- INTRO -->
-<h1>Joe Lynn Turner Era - Mark 5</h1>
+<h1>Mark V- <br>Joe Lynn Turner</h1>
 <p class = 'intro-blurb'>Gillan leaves again and Joe Lynn Turner (Blackmore's former vocalist from Rainbow) steps in</p>
 <figure class='group_photo_figure'>
   <img src="imgs/mark5_group_photo.png" class = 'group_photo' alt="group photo of Deep Purple with Joe Lynn Turner as lead singer">

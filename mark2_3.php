@@ -15,7 +15,7 @@
 
 <main>
 <!-- INTRO -->
-<h1>Mk II - 3rd Times a Charm?</h1>
+<h1>Mk II - <br>3rd Times a Charm?</h1>
 <p class = 'intro-blurb'>Somehow, the now infamous MK II gets together again.  This will be the last album before Blackmore leaves permanently</p>
 <figure class='group_photo_figure'>
   <img src="imgs/mark2_last_group_photo.png" class = 'group_photo' alt="a group photo of the legendary lineup reunites for the second and last time">

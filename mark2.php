@@ -15,7 +15,7 @@
 
 <main>
 <!-- INTRO -->
-<h1>Mark II - Deep Purple at Their Zenith</h1>
+<h1>Mark II - <br>Deep Purple at Their Zenith</h1>
 <p class = 'intro-blurb'>Spurred by the heavier sound of Led Zeppelin and Jimi Hendrix, Blackmore wanted to take the band in a heavier direction.  So they stepped away from the artsy, psuedo orchestral stylings and went for a leaner, powerful approach.  This is the Golden era of Deep Purple</p>
 <figure class='group_photo_figure'>
   <img src="imgs/mark2_group_photo.png" class = 'group_photo' alt="a group photo of the famous mark 2 lineup jamming in the studio">
