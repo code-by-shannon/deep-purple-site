@@ -28,14 +28,14 @@
 
 <!--Come Taste the Band-->
 <div class='title_cover_review_rating_div'>
-  
-</div>
 <h3 class='album_title_header'>Come Taste the Band - <em>1975</em></h3>
 <p class='review_text'>
 <img class="album_cover" src="imgs/cover_come_taste_the_band.png" alt="Come Taste the Band Cover"/> 
 Another major lineup change and another great album.  Somehow, this isn't shocking, Deep Purple always seems to find a way.  This time, the one to leave is Ritchie who went on to form Rainbow with Ronnie James Dio.  So how do you replace a guitar virtuoso who's fretboard work was the primary force behind the band?  Well, you just go get Tommy Bolin.  Seriously, what other guitarist could have come in and done that?  Unlike the classic MK II era, this band is funkier and more R&B driven, but it still sounds wild and exotic with Bolin's exceptional playing throughout.  The Glenn Hughes songs are the most satisfying i.e. 'Gettin' Tighter' and 'This Time Around,' the former with it's heavy, funky riff and jazzy middle section, the latter a gorgeous and inventive masterpiece of song development.  And man, can Glenn Hughes ever sing!!  The Coverdale songs tend to foretell the vibe of the upcoming Whitesnake era, bluesier, grittier but a little short on melody i.e. 'I Need Love,' 'Drifter,' and 'Lady Luck' brings the album down a star.  Coverdale does redeem himself however, with the closer 'You Keep On Movin,' which is sublime and elevated blues.
 </p>
 <span class="rating"> (rating: 4/5 whammy bars)</span> 
+</div>
+
 
 
 <!--Long Beach 1976-->

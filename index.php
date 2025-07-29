@@ -21,6 +21,7 @@
 </p>  
 
 <h1>Deep Purple Tribute Page</h1>
+<img id='ritchie_index_pic' src="imgs/blackmore/ritchie_in_front_of_stacks.png" alt="Ritchie in front of 6 Marshalls">
 <!-- INTRO TO WEBSITE PARAGRAPH -->
 </main>
 
