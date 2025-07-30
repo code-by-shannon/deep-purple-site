@@ -1,3 +1,36 @@
+<?php
+$host = 'localhost';
+$user = 'root';
+$pass = '';
+$dbname = 'dp_db';
+
+$conn = new mysqli($host, $user, $pass, $dbname);
+if ($conn->connect_error) die("Connection failed: " . $conn->connect_error);
+
+if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+    $name = trim($_POST['name']);
+    $comment = trim($_POST['comment']);
+    if ($name !== '' && $comment !== '') {
+        $stmt = $conn->prepare("INSERT INTO comments_mark1 (name, comment) VALUES (?, ?)");
+        $stmt->bind_param("ss", $name, $comment);
+        $stmt->execute();
+        $stmt->close();
+        header("Location: " . $_SERVER['PHP_SELF'] . "#comments");
+        exit;
+    }
+}
+
+if (isset($_GET['delete'])) {
+    $id = (int) $_GET['delete'];
+    $conn->query("DELETE FROM comments_mark1 WHERE id = $id");
+    header("Location: " . $_SERVER['PHP_SELF'] . "#comments");
+    exit;
+}
+
+$comments = $conn->query("SELECT id, name, comment FROM comments_mark1 ORDER BY id DESC");
+?>
+
+
 <?php define('PAGE_TITLE', 'Mark I - Deep Purple - Formation and First Lineup'); ?>
 
 
@@ -88,6 +121,29 @@ I am basing this rating solely on the performance of the musicians and ignoring 
 <!-- to the next mk version -->
 <div class='lineup-nav'>
   <a href="mark2.php">Mark II →</a>
+</div>
+<div id="comments">
+  <h2>Mark I Discussion</h2>
+
+  <form method="POST" action="#comments">
+    <p><input type="text" name="name" placeholder="Your name" required></p>
+    <p><textarea name="comment" placeholder="Your comment" required></textarea></p>
+    <p><button type="submit">Comment</button></p>
+  </form>
+
+  <ul>
+    <?php if ($comments && $comments->num_rows > 0): ?>
+      <?php while ($row = $comments->fetch_assoc()): ?>
+        <li>
+          <strong><?= htmlspecialchars($row['name']) ?>:</strong><br>
+          <?= nl2br(htmlspecialchars($row['comment'])) ?><br>
+          <a href="?delete=<?= $row['id'] ?>#comments">Delete</a>
+        </li>
+      <?php endwhile; ?>
+    <?php else: ?>
+      <li>No comments yet.</li>
+    <?php endif; ?>
+  </ul>
 </div>
     
 
