@@ -41,10 +41,6 @@ Their first album kicks off their career in fine fashion!  It's not quite stylis
 
 <span class="rating"> (rating: 3.75/5 whammy bars)</span>
 
-<div class="like-container" data-album-id="1">
-  <button class="like-button">👍 Like</button>
-  <span class="like-count">0</span>
-</div>
 
 </div>
 
