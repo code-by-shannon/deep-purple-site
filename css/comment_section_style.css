@@ -1,0 +1,79 @@
+/* COMMENT SECTION STYLING */
+#comments {
+    max-width: 800px;
+    margin: 4rem auto;
+    background-color: #f9f6ff;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 0 20px rgba(128, 0, 128, 0.2);
+    border-left: 6px solid purple;
+  }
+  
+  #comments h2 {
+    font-size: 2.2rem;
+    color: #4B0082;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 0.5rem;
+    margin-bottom: 2rem;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  #comments form input[type="text"],
+  #comments form textarea {
+    width: 100%;
+    padding: 1rem;
+    margin-bottom: 1.5rem;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 1rem;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  #comments form button {
+    background-color: #6a0dad;
+    color: white;
+    border: none;
+    padding: 0.8rem 1.6rem;
+    font-size: 1.1rem;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  #comments form button:hover {
+    background-color: #4b0082;
+  }
+  
+  #comments ul {
+    list-style: none;
+    padding: 0;
+    margin-top: 2rem;
+  }
+  
+  #comments ul li {
+    background-color: #f0eaff;
+    border-left: 4px solid #6a0dad;
+    border-right: 4px solid #6a0dad;
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+    border-radius: 6px;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.05);
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  #comments ul li strong {
+    color: #4b0082;
+    font-weight: bold;
+    font-size: 1.1rem;
+  }
+  
+  #comments ul li a {
+    color: purple;
+    font-size: 0.9rem;
+    text-decoration: none;
+  }
+  
+  #comments ul li a:hover {
+    text-decoration: underline;
+  }
+  

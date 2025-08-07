@@ -1,4 +1,10 @@
 <?php
+$comment_table = 'comments_mark1';
+include 'includes/comment_logic.php';
+define('PAGE_TITLE', 'Mark II - Deep Purple - Where it all began');
+?>
+
+<?php
 $host = 'localhost';
 $user = 'root';
 $pass = '';
@@ -29,10 +35,6 @@ if (isset($_GET['delete'])) {
 
 $comments = $conn->query("SELECT id, name, comment FROM comments_mark1 ORDER BY id DESC");
 ?>
-
-
-<?php define('PAGE_TITLE', 'Mark I - Deep Purple - Formation and First Lineup'); ?>
-
 
 <!DOCTYPE html>
 <html lang="en">
@@ -122,6 +124,8 @@ I am basing this rating solely on the performance of the musicians and ignoring 
 <div class='lineup-nav'>
   <a href="mark2.php">Mark II →</a>
 </div>
+
+<!-- COMMENT SECTION -->
 <div id="comments">
   <h2>Mark I Discussion</h2>
 

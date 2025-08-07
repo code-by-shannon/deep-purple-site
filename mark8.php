@@ -1,4 +1,8 @@
-<?php define('PAGE_TITLE', 'Mark VIII - Simon McBride Era'); ?>
+<?php
+$comment_table = 'comments_mark8';
+include 'includes/comment_logic.php';
+define('PAGE_TITLE', 'Mark VIII - Simon McBride Era');;
+?>
 
 
 <!DOCTYPE html>
@@ -43,6 +47,31 @@ We enter the Simon McBride era.  Steve Morse called it a career after approximat
 <div class="lineup-nav">
   <a href="mark7.php" class="nav-button">← Mark VII</a>
   <!-- <a href="rainbow.php" class="nav-button">Rainbow →</a> -->
+</div>
+
+<!-- COMMENT SECTION -->
+<div id="comments">
+  <h2>Mark I Discussion</h2>
+
+  <form method="POST" action="#comments">
+    <p><input type="text" name="name" placeholder="Your name" required></p>
+    <p><textarea name="comment" placeholder="Your comment" required></textarea></p>
+    <p><button type="submit">Comment</button></p>
+  </form>
+
+  <ul>
+    <?php if ($comments && $comments->num_rows > 0): ?>
+      <?php while ($row = $comments->fetch_assoc()): ?>
+        <li>
+          <strong><?= htmlspecialchars($row['name']) ?>:</strong><br>
+          <?= nl2br(htmlspecialchars($row['comment'])) ?><br>
+          <a href="?delete=<?= $row['id'] ?>#comments">Delete</a>
+        </li>
+      <?php endwhile; ?>
+    <?php else: ?>
+      <li>No comments yet.</li>
+    <?php endif; ?>
+  </ul>
 </div>
 
 

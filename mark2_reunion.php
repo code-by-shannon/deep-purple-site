@@ -1,4 +1,8 @@
-<?php define('PAGE_TITLE', 'Mark II - 1984 Reunion'); ?>
+<?php
+$comment_table = 'comments_mark2_reunion';
+include 'includes/comment_logic.php';
+define('PAGE_TITLE', 'Mark II - Deep Purple - Reunion');
+?>
 
 
 <!DOCTYPE html>
@@ -52,6 +56,31 @@ This album is glossy in it's production, like Joe Lynn Turner era Rainbow.  Alth
 <div class="lineup-nav">
   <a href="mark4.php" class="nav-button">← Mark IV</a>
   <a href="mark5.php" class="nav-button">Mark V →</a>
+</div>
+
+<!-- COMMENT SECTION -->
+<div id="comments">
+  <h2>Mark II Discussion</h2>
+
+  <form method="POST" action="#comments">
+    <p><input type="text" name="name" placeholder="Your name" required></p>
+    <p><textarea name="comment" placeholder="Your comment" required></textarea></p>
+    <p><button type="submit">Comment</button></p>
+  </form>
+
+  <ul>
+    <?php if ($comments && $comments->num_rows > 0): ?>
+      <?php while ($row = $comments->fetch_assoc()): ?>
+        <li>
+          <strong><?= htmlspecialchars($row['name']) ?>:</strong><br>
+          <?= nl2br(htmlspecialchars($row['comment'])) ?><br>
+          <a href="?delete=<?= $row['id'] ?>#comments">Delete</a>
+        </li>
+      <?php endwhile; ?>
+    <?php else: ?>
+      <li>No comments yet.</li>
+    <?php endif; ?>
+  </ul>
 </div>
 
 <?php include 'includes/footer.php'; ?>
