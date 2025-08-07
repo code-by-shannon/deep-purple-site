@@ -25,7 +25,7 @@
   
   <!-- Stylesheet -->
   <link rel="stylesheet" href="css/base.css">
-
+  <link rel="stylesheet" href="css/comment_section_style.css">
   <!-- Favicon -->
   <link rel="icon" href="imgs/favicon1.png" type="image/png">
   <!-- GOOGLE FONT -->

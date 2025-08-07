@@ -1,5 +1,8 @@
-<?php define('PAGE_TITLE', 'Mark VII - Don Airey Era'); ?>
-
+<?php
+$comment_table = 'comments_mark7';
+include 'includes/comment_logic.php';
+define('PAGE_TITLE', 'Mark VII - Don Airey Era');
+?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -90,6 +93,31 @@ Is this the last Deep Purple studio album?  If it is, they made a pretty cool mo
 <div class="lineup-nav">
   <a href="mark6.php" class="nav-button">← Mark VI</a>
   <a href="mark8.php" class="nav-button">Mark VIII →</a>
+</div>
+
+<!-- COMMENT SECTION -->
+<div id="comments">
+  <h2>Mark I Discussion</h2>
+
+  <form method="POST" action="#comments">
+    <p><input type="text" name="name" placeholder="Your name" required></p>
+    <p><textarea name="comment" placeholder="Your comment" required></textarea></p>
+    <p><button type="submit">Comment</button></p>
+  </form>
+
+  <ul>
+    <?php if ($comments && $comments->num_rows > 0): ?>
+      <?php while ($row = $comments->fetch_assoc()): ?>
+        <li>
+          <strong><?= htmlspecialchars($row['name']) ?>:</strong><br>
+          <?= nl2br(htmlspecialchars($row['comment'])) ?><br>
+          <a href="?delete=<?= $row['id'] ?>#comments">Delete</a>
+        </li>
+      <?php endwhile; ?>
+    <?php else: ?>
+      <li>No comments yet.</li>
+    <?php endif; ?>
+  </ul>
 </div>
 
 <?php include 'includes/footer.php'; ?>
